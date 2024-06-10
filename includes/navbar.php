@@ -9,7 +9,7 @@
 	            <!-- Logo -->
 	            <a class="navbar-brand" href="index.php">
 	                <!-- Logo -->
-	                <img class="navbar-brand-item" src="assets/images/logo-white.svg" alt="Logo">
+	                <img class="navbar-brand-item" src="assets/images/bevis-logo.jpg" alt="Logo">
 	            </a>
 	            <!-- Menu opener button -->
 	            <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">

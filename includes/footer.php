@@ -27,7 +27,7 @@
 	                    <div class="widget">
 	                        <a href="index.php" class="footer-logo">
 	                            <!-- footer logo Start -->
-	                            <img class="footer-logo-item" src="assets/images/logo.svg" alt="">
+	                            <img class="footer-logo-item" src="assets/images/bevis-logo.jpg" alt="">
 	                            <!-- footer logo End -->
 	                        </a>
 	                        <p class="mt-3">Wizixo is a highly creative, modern, visually stunning and Bootstrap 5 Creative Multi-purpose corporate and portfolio HTML5 template.</p>
