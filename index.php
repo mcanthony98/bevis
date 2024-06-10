@@ -214,6 +214,49 @@
 Our Products -->
 
 
+
+    <!-- =======================
+	Why Choose Us? -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-8 mx-auto">
+                    <div class="title text-center">
+                        <span class="pre-title">Why Choose Bevis Africa?</span>
+                        <h2>Your Trusted Partner for Africa's Growth</h2>
+                        <p class="mb-0">With over four decades of experience, Bevis Africa has the expertise, resources and commitment to deliver world-class projects safely and efficiently across the continent.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 mt-4">
+                    <div class="feature-box f-style-5 h-100 icon-grad">
+                        <div class="feature-box-icon"><i class="ti-panel"></i></div>
+                        <h3 class="feature-box-title">Full Suite of Services</h3>
+                        <p class="feature-box-desc">From feasibility studies to engineering design, procurement, construction, commissioning and maintenance, we offer end-to-end solutions for complex projects.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-4">
+                    <div class="feature-box f-style-5 h-100 icon-grad">
+                        <div class="feature-box-icon"><i class="ti-palette"></i></div>
+                        <h3 class="feature-box-title">Proven Track Record</h3>
+                        <p class="feature-box-desc">We have successfully delivered landmark projects for major clients across various sectors, demonstrating our capabilities in executing large-scale projects.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-4">
+                    <div class="feature-box f-style-5 h-100 icon-grad">
+                        <div class="feature-box-icon"><i class="ti-gift"></i></div>
+                        <h3 class="feature-box-title">Commitment to Africa</h3>
+                        <p class="feature-box-desc">As an African company, we are dedicated to the development of local skills, suppliers and communities in every country we operate, leaving a positive legacy.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- =======================
+	Why Choose Us? -->
+
+
     <!-- Footer, CTA -->
     <?php include 'includes/footer.php'; ?>
 
