@@ -285,6 +285,68 @@ Our Products -->
 	about us -->
 
 
+    <!-- =======================
+Portfolio -->
+    <section class="portfolio portfolio-link pb-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 mx-auto text-center mb-3">
+                    <h2 class="h1">Featured Projects</h2>
+                    <p class="mb-0">Bevis Africa has successfully delivered numerous projects across the mining, power, and industrial sectors. Here are some of our featured projects showcasing our capabilities and expertise.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 p-0">
+                    <div class="portfolio-wrap grid items-3 items-padding" data-isotope='{ "itemSelector": ".isotope-item", "layoutMode": "masonry" }'>
+                        <!-- portfolio-card -->
+                        <div class="portfolio-card isotope-item mining">
+                            <div class="portfolio-card-body">
+                                <div class="portfolio-card-header">
+                                    <img src="assets/images/portfolio/01.jpg" alt="Kansanshi Copper Mine">
+                                </div>
+                                <div class="portfolio-card-footer">
+                                    <a class="full-screen" href="assets/images/portfolio/01.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Kansanshi Copper Mine</a></h6>
+                                    <p>Solwezi, Zambia</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- portfolio-card -->
+                        <div class="portfolio-card isotope-item power">
+                            <div class="portfolio-card-body">
+                                <div class="portfolio-card-header">
+                                    <img src="assets/images/portfolio/02.jpg" alt="Medupi Power Station">
+                                </div>
+                                <div class="portfolio-card-footer">
+                                    <a class="full-screen" href="assets/images/portfolio/02.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Medupi Power Station</a></h6>
+                                    <p>Lephalale, South Africa</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- portfolio-card -->
+                        <div class="portfolio-card isotope-item industrial">
+                            <div class="portfolio-card-body">
+                                <div class="portfolio-card-header">
+                                    <img src="assets/images/portfolio/03.jpg" alt="Saldanha Steel">
+                                </div>
+                                <div class="portfolio-card-footer">
+                                    <a class="full-screen" href="assets/images/portfolio/03.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Saldanha Steel</a></h6>
+                                    <p>Saldanha Bay, South Africa</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- portfolio wrap -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- =======================
+Portfolio -->
+
+
     <!-- Footer, CTA -->
     <?php include 'includes/footer.php'; ?>
 
