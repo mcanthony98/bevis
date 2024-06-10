@@ -109,6 +109,111 @@
     <!-- =======================
 	Clients -->
 
+
+    <!-- =======================
+	Our Products -->
+    <section class="portfolio portfolio-style-2 pb-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-8 mx-auto">
+                    <div class="title text-center">
+                        <span class="pre-title">Our Featured Products</span>
+                        <h2>Comprehensive Solutions for Africa</h2>
+                        <p class="mb-0">Bevis Africa offers a wide range of products and services to support the needs of our clients in the mining, power, and industrial sectors. Our offerings are designed to enhance efficiency, reliability, and sustainability.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 p-0">
+                    <div class="portfolio-wrap grid items-3 items-padding" data-isotope='{ "itemSelector": ".isotope-item", "layoutMode": "masonry" }'>
+                        <!-- product-card -->
+                        <div class="portfolio-card isotope-item engineering">
+                            <div class="portfolio-card-body">
+                                <div class="portfolio-card-header">
+                                    <img src="assets/images/portfolio/01.jpg" alt="Engineering Services">
+                                </div>
+                                <div class="portfolio-card-footer">
+                                    <a class="full-screen" href="assets/images/portfolio/01.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Engineering Services</a></h6>
+                                    <p>Feasibility Studies, Design, Project Management</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- product-card -->
+                        <div class="portfolio-card isotope-item procurement">
+                            <div class="portfolio-card-body">
+                                <div class="portfolio-card-header">
+                                    <img src="assets/images/portfolio/02.jpg" alt="Procurement Services">
+                                </div>
+                                <div class="portfolio-card-footer">
+                                    <a class="full-screen" href="assets/images/portfolio/02.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Procurement Services</a></h6>
+                                    <p>Strategic Sourcing, Logistics, Materials Management</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- product-card -->
+                        <div class="portfolio-card isotope-item construction">
+                            <div class="portfolio-card-body">
+                                <div class="portfolio-card-header">
+                                    <img src="assets/images/portfolio/03.jpg" alt="Construction Services">
+                                </div>
+                                <div class="portfolio-card-footer">
+                                    <a class="full-screen" href="assets/images/portfolio/03.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Construction Services</a></h6>
+                                    <p>Civil Works, Mechanical, Electrical, Instrumentation</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- product-card -->
+                        <div class="portfolio-card isotope-item maintenance">
+                            <div class="portfolio-card-body">
+                                <div class="portfolio-card-header">
+                                    <img src="assets/images/portfolio/04.jpg" alt="Maintenance Services">
+                                </div>
+                                <div class="portfolio-card-footer">
+                                    <a class="full-screen" href="assets/images/portfolio/04.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Maintenance Services</a></h6>
+                                    <p>Preventive, Predictive, Corrective Maintenance</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- product-card -->
+                        <div class="portfolio-card isotope-item training">
+                            <div class="portfolio-card-body">
+                                <div class="portfolio-card-header">
+                                    <img src="assets/images/portfolio/11.jpg" alt="Training Services">
+                                </div>
+                                <div class="portfolio-card-footer">
+                                    <a class="full-screen" href="assets/images/portfolio/11.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Training Services</a></h6>
+                                    <p>Technical Training, Safety Training, Operator Training</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- product-card -->
+                        <div class="portfolio-card isotope-item consulting">
+                            <div class="portfolio-card-body">
+                                <div class="portfolio-card-header">
+                                    <img src="assets/images/portfolio/12.jpg" alt="Consulting Services">
+                                </div>
+                                <div class="portfolio-card-footer">
+                                    <a class="full-screen" href="assets/images/portfolio/12.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Consulting Services</a></h6>
+                                    <p>Technical Advice, Operational Improvement, Asset Management</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- portfolio wrap -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- =======================
+Our Products -->
+
+
     <!-- Footer, CTA -->
     <?php include 'includes/footer.php'; ?>
 
