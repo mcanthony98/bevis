@@ -34,7 +34,7 @@ footer  -->
 					</div>
 				</div>
 				<!-- Footer widget 2 -->
-				<div class="col-md-3 col-sm-6">
+				<div class="col-md-4 col-sm-6">
 					<div class="widget address" style="background-image: url('assets/images/world-map.png'); background-position: 50% 20px; background-repeat: no-repeat; background-size: contain;">
 						<ul class="list-group list-group-borderless">
 							<li class="d-flex mb-3"><i class="me-3 display-8 ti-map-alt"></i>12 Boskruin Road, Randburg, 2194, South Africa</li>
@@ -47,7 +47,7 @@ footer  -->
 					</div>
 				</div>
 				<!-- Footer widget 3 -->
-				<div class="col-md-2 col-sm-6">
+				<div class="col-md-4 col-sm-6">
 					<div class="widget">
 						<h6>Quick Links</h6>
 						<ul class="nav flex-column primary-hover">
@@ -57,17 +57,6 @@ footer  -->
 							<li class="nav-item"><a class="nav-link" href="careers.php">Careers</a></li>
 							<li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
 						</ul>
-					</div>
-				</div>
-				<!-- Footer widget 4 -->
-				<div class="col-md-3">
-					<div class="widget bg-grad p-4 all-text-white rounded">
-						<i class="ti-email newsletter-icon"></i>
-						<p class="mb-2">Subscribe to our newsletter for industry insights and updates.</p>
-						<div class="form-group mb-0">
-							<input class="form-control border-white mb-3" type="email" placeholder="Enter email...">
-							<button class="btn btn-dark mb-0">Subscribe</button>
-						</div>
 					</div>
 				</div>
 			</div>
