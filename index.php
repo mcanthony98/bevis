@@ -57,7 +57,30 @@
 	Main banner -->
 
 
-
+    <!-- =======================
+	About us -->
+    <section>
+        <div class="container h-100">
+            <div class="row">
+                <!-- left -->
+                <div class="col-md-10 col-lg-7 align-self-center ">
+                    <img class="rounded" src="assets/images/banner/04.jpg" alt="">
+                </div>
+                <!-- right -->
+                <div class="col-md-12 col-lg-5 align-self-center mt-4 mt-lg-0">
+                    <div class="title text-start pb-0">
+                        <span class="pre-title">About Bevis Africa</span>
+                        <h2>Powering Africa's Growth for Over <span class="text-primary">40 Years</span></h2>
+                        <p>Bevis Africa is a leading engineering, procurement, construction and maintenance company serving the mining, power, and industrial sectors across Africa. With a track record of delivering complex projects in remote locations, we are committed to safety, quality, and sustainability.</p>
+                        <a href="#" class="btn btn-outline-primary">Read more</a>
+                    </div>
+                </div>
+            </div>
+            <!-- row end -->
+        </div>
+    </section>
+    <!-- =======================
+	About us -->
 
 
 
