@@ -82,7 +82,32 @@
     <!-- =======================
 	About us -->
 
-
+    <!-- =======================
+	Clients -->
+    <section class="p-0 pt-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="bg-light p-3 p-md-5 rounded text-center">
+                        <div class="tiny-slider">
+                            <div class="tiny-slider-inner" data-arrow="false" data-dots="false" data-autoplay="3800" data-items-xl="6" data-items-md="4" data-items-sm="3" data-items-xs="2">
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/01.png" alt=""></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/02.png" alt=""></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/03.png" alt=""></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/04.png" alt=""></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/05.png" alt=""></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/06.png" alt=""></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/07.png" alt=""></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/08.png" alt=""></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- =======================
+	Clients -->
 
     <!-- Footer, CTA -->
     <?php include 'includes/footer.php'; ?>
