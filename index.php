@@ -25,9 +25,9 @@
             <div class="row align-self-center w-100">
                 <!-- banner Content -->
                 <div class="col-md-6 mt-md-0 all-text-white position-relative">
-                    <h2 class="display-4 fw-normal">A complete technology solution provider</h2>
-                    <p class="h6 mb-4 fw-normal d-none d-sm-block">We help our customers better manage their web presence in order to achieve greater success online.</p>
-                    <a class="btn btn-dark mb-7" href="#">Request demo!</a>
+                    <h2 class="display-4 fw-normal">Your Trusted Engineering Partner in Africa</h2>
+                    <p class="h6 mb-4 fw-normal d-none d-sm-block">Bevis Africa delivers world-class engineering, procurement, construction and maintenance services across the continent.</p>
+                    <a class="btn btn-dark mb-7" href="#">Learn More</a>
                 </div>
                 <!-- banner image -->
                 <div class="col-md-6 d-none d-md-block p-0 position-absolute top-0 end-0 align-top align-text-top">
@@ -55,6 +55,8 @@
     </section>
     <!-- =======================
 	Main banner -->
+
+
 
 
 
