@@ -53,11 +53,7 @@
 	            </div>
 	            <!-- Main Menu End -->
 	            <!-- Header Extras Start-->
-	            <div class="navbar-nav">
-	                <!-- extra item Search-->
-	                <div class="nav-item search border-0 ps-3 pe-0 px-lg-2" id="search">
-	                    <a class="nav-link" data-bs-toggle="collapse" href="#search-open"><i class="ti-search"> </i></a>
-	                </div>
+	            <div class="navbar-nav" style="margin-left: 15px;">
 	                <!-- extra item Btn-->
 	                <div class="nav-item border-0 d-none d-lg-inline-block align-self-center">
 	                    <a href="#" class=" btn btn-sm btn-grad text-white mb-0">Apply for Carbon Credits</a>
