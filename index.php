@@ -257,6 +257,34 @@ Our Products -->
 	Why Choose Us? -->
 
 
+    <!-- =======================
+	about us -->
+    <section class="pt-0">
+        <div class="container">
+            <div class="row justify-content-between align-items-center">
+                <!-- left -->
+                <div class="col-md-6">
+                    <img class="rounded" src="assets/images/blog/03.jpg" alt="">
+                </div>
+                <!-- right -->
+                <div class="col-md-6 mt-4 mt-md-0">
+                    <h2 class="h1">Your Partner for Africa's Infrastructure Development</h2>
+                    <p>With a strong presence across the continent, Bevis Africa has the local knowledge, relationships and resources to navigate the unique challenges of executing projects in Africa.</p>
+                    <ul class="list-group list-group-borderless list-group-icon-primary-bg mb-4">
+                        <li class="list-group-item"><i class="fa fa-check"></i> Extensive experience in remote locations and harsh environments</li>
+                        <li class="list-group-item"><i class="fa fa-check"></i> Strong health, safety and environmental practices</li>
+                        <li class="list-group-item"><i class="fa fa-check"></i> Commitment to local content development and community engagement</li>
+                        <li class="list-group-item"><i class="fa fa-check"></i> Proven ability to deliver complex projects on time and budget</li>
+                    </ul>
+                    <a href="#" class="btn btn-grad">Learn More About Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- =======================
+	about us -->
+
+
     <!-- Footer, CTA -->
     <?php include 'includes/footer.php'; ?>
 
