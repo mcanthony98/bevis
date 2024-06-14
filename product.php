@@ -75,6 +75,27 @@
 				</div>
 			</div>
 
+						<!-- portfolio requirement -->
+						<div class="row mb-4" data-sticky-container>
+				<div class="col-md-6">
+					<a class="mb-4 d-block" href="assets/images/portfolio/01.jpg" data-glightbox="" data-gallery="portfolio"><img src="assets/images/portfolio/01.jpg" alt=""></a>
+					<a class="mb-4 d-block" href="assets/images/portfolio/02.jpg" data-glightbox="" data-gallery="portfolio"><img src="assets/images/portfolio/02.jpg" alt=""></a>
+					<a class="mb-4 d-block" href="assets/images/portfolio/03.jpg" data-glightbox="" data-gallery="portfolio"><img src="assets/images/portfolio/03.jpg" alt=""></a>
+				</div>
+				<div class="col-md-6">
+					<div data-sticky data-margin-top="80" data-sticky-for="767">
+						<h2>Work Requirement</h2>
+						<p>Too months nay end change relied who beauty wishes matter. Shew of john real park so rest we on. Ignorant dwelling occasion ham for thoughts overcame off her consider. Polite it elinor is depend. His not get talked effect worthy Barton. Household shameless incommode at no objection behavior.</p>
+						<ul class="list-group list-group-borderless list-group-icon-primary-bg">
+							<li class="list-group-item"><i class="fa fa-check"></i>Maintained Windows Servers</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Supported Windows workstations</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Setup a rotation schedule and Setup anti-virus system</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Designed machines/server and trained employees</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
 			<!-- portfolio features -->
 			<div class="row">
 				<!-- feature 1 -->
@@ -166,6 +187,7 @@
     <!-- Scripts -->
     <?php include 'includes/scripts.php'; ?>
 
+	
 
 </body>
 
