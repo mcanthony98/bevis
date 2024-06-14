@@ -121,6 +121,105 @@
 	Partners -->
 
 
+    	<!-- =======================
+	Team -->
+	<section class="team social-hover team-overlay pb-0">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-lg-8 mx-auto">
+					<div class="title text-center">
+						<span class="pre-title">They are all professionals</span>
+						<h2>Creative Team and founders</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<!-- Team item -->
+				<div class="col-sm-6 col-md-3">
+					<div class="team-item text-center">
+						<div class="team-avatar">
+							<img src="assets/images/team/01.jpg" alt="">
+						</div>
+						<div class="team-desc">
+							<h5 class="team-name">Allen Smith</h5>
+							<span class="team-position">Founder</span>
+							<p>Far concluded not his something extremity. Four we face an he gate.</p>
+							<ul class="social-icons si-colored-on-hover">
+								<li class="social-icons-item social-facebook"><a class="social-icons-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li class="social-icons-item social-instagram"><a class="social-icons-link" href="#"><i class="fab fa-instagram"></i></a></li>
+								<li class="social-icons-item social-twitter"><a class="social-icons-link" href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- Team item -->
+				<div class="col-sm-6 col-md-3">
+					<div class="team-item text-center">
+						<div class="team-avatar">
+							<img src="assets/images/team/02.jpg" alt="">
+						</div>
+						<div class="team-desc">
+							<h5 class="team-name">Peter Smith</h5>
+							<span class="team-position">Software Developer</span>
+							<p>Sportsman one bed departure rapturous situation disposing partiality.</p>
+							<ul class="social-icons si-colored-on-hover">
+								<li class="social-icons-item social-facebook"><a class="social-icons-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li class="social-icons-item social-instagram"><a class="social-icons-link" href="#"><i class="fab fa-instagram"></i></a></li>
+								<li class="social-icons-item social-twitter"><a class="social-icons-link" href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- Team item -->
+				<div class="col-sm-6 col-md-3">
+					<div class="team-item text-center">
+						<div class="team-avatar">
+							<img src="assets/images/team/03.jpg" alt="">
+						</div>
+						<div class="team-desc">
+							<h5 class="team-name">Emma Watson</h5>
+							<span class="team-position">Human Resource</span>
+							<p>Continue delicate as unlocked entirely mr relation diverted in Expect</p>
+							<ul class="social-icons si-colored-on-hover">
+								<li class="social-icons-item social-facebook"><a class="social-icons-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li class="social-icons-item social-instagram"><a class="social-icons-link" href="#"><i class="fab fa-instagram"></i></a></li>
+								<li class="social-icons-item social-twitter"><a class="social-icons-link" href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- Team item -->
+				<div class="col-sm-6 col-md-3">
+					<div class="team-item text-center">
+						<div class="team-avatar">
+							<img src="assets/images/team/04.jpg" alt="">
+						</div>
+						<div class="team-desc">
+							<h5 class="team-name">Jessica Mores</h5>
+							<span class="team-position">Web Developer</span>
+							<p>Expect no pretty though so genius afraid when of ye snug poor draw.</p>
+							<ul class="social-icons si-colored-on-hover">
+								<li class="social-icons-item social-facebook"><a class="social-icons-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li class="social-icons-item social-instagram"><a class="social-icons-link" href="#"><i class="fab fa-instagram"></i></a></li>
+								<li class="social-icons-item social-twitter"><a class="social-icons-link" href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- row end -->
+			<div class="row">
+				<div class="col-12 col-lg-8 mx-auto text-center mt-5">
+					<h6>We are hiring! Join our team Creative Agency Specializing in: Video Production, Web Design, Branding, Brand Strategy.</h6>
+					<a class="btn btn-grad" href="#!">Apply now!</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+	Team -->
+
+
 
 
     <!-- Footer, CTA -->
