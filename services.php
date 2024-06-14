@@ -19,7 +19,19 @@
     <?php include 'includes/navbar.php'; ?>
 
 
-
+	<!-- =======================
+	Banner innerpage -->
+	<div class="left bg-dark-grad pattern-overlay-1">
+		<div class="container">
+			<div class="row all-text-white">
+				<div class="col-md-12 align-self-center position-relative">
+					<h1 class="fw-bold display-1 mb-2 mb-md-n4 mt-9">Our Services</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- =======================
+	Banner innerpage -->
 
 
     <!-- Footer, CTA -->
