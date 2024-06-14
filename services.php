@@ -88,6 +88,42 @@
 	service -->
 
 
+    	<!-- =======================
+	process-advance -->
+	<section class="process-advance bg-light">
+		<div class="container">
+			<div class="row">
+				<!-- process 1 -->
+				<div class="col-sm-6 col-lg-3 text-center mb-4">
+					<div class="process-border"><span class="process-number bg-grad border-end">01</span></div>
+					<h5 class="my-3">Planning</h5>
+					<p>The initial step after getting the project is to discuss and plan the skills</p>
+				</div>
+				<!-- process 1 -->
+				<div class="col-sm-6 col-lg-3 text-center mb-4">
+					<div class="process-border"><span class="process-number bg-grad border-start border-end">02</span></div>
+					<h5 class="my-3">Designing</h5>
+					<p>After getting the project requirement, we start working on design</p>
+				</div>
+				<!-- process 1 -->
+				<div class="col-sm-6 col-lg-3 text-center mb-4">
+					<div class="process-border"><span class="process-number bg-grad border-start border-end">03</span></div>
+					<h5 class="my-3">Integration</h5>
+					<p>We test each individual activity and integrate them all together in a process.</p>
+				</div>
+				<!-- process 1 -->
+				<div class="col-sm-6 col-lg-3 text-center mb-4">
+					<div class="process-border"><span class="process-number bg-grad border-start">04</span></div>
+					<h5 class="my-3">Delivery</h5>
+					<p>We deliver the project and upload it to their web server after support maintenance.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+	process-advance -->
+
+
     <!-- Footer, CTA -->
     <?php include 'includes/footer.php'; ?>
 
