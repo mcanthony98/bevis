@@ -90,6 +90,68 @@
 	<!-- =======================
 	About us -->
 
+		<!-- =======================
+	About us -->
+	<section>
+		<div class="container h-100">
+			<div class="row">
+				<div class="col-md-6 align-self-center">
+					<div class="text-center text-sm-center text-md-end mb-4">
+						<h2 class="text-grad display-1 fw-bold mb-0">15+ Years</h2>
+						<span>In market insight and behavior driven creative marketing agency</span>
+					</div>
+				</div>
+				<div class="col-md-6 align-self-center text-center text-sm-center text-md-start">
+					<p class="pe-0 pe-lg-5">A Full portfolio Digital Creative Agency Specializing in: Video Production, Web Design, Branding, Brand Strategy, Content Marketing and Aerial Cinematography. sequi, obcaecati temporibus laboriosam</p>
+					<p class="pe-0 pe-lg-5">We are an insight and behaviour driven creative marketing agency deleniti delectus fugiat commodi facere atque molestias sequi obcaecati temporibus laboriosam?</p>
+					<a class="btn btn-outline-light" href="#">Explore services!</a>
+				</div>
+			</div>
+			<!-- row end -->
+			<div class="row mt-7">
+				<!-- process item-->
+				<div class="col-md-3 mb-6">
+					<div class="process">
+						<div class="process-number">01.</div>
+						<h3 class="process-title">Research</h3>
+						<p class="process-content">We start with Research consectetur adipisicing elit. Placeat alias optio repellendus recusandae odio praesentium</p>
+						<a href="#!">Read More</a>
+					</div>
+				</div>
+				<!-- process item-->
+				<div class="col-md-3 mb-6">
+					<div class="process">
+						<div class="process-number">02.</div>
+						<h3 class="process-title">Design</h3>
+						<p class="process-content">In this step Placeat alias optio repellendus recusandae odio praesentium consectetur adipisicing odio elit </p>
+						<a href="#!">Read More</a>
+					</div>
+				</div>
+				<!-- process item-->
+				<div class="col-md-3 mb-6">
+					<div class="process">
+						<div class="process-number">03.</div>
+						<h3 class="process-title">Develop</h3>
+						<p class="process-content">We build with Developer consectetur adipisicing elit Placeat alias optio repellendus recusandae odio praesentium</p>
+						<a href="#!">Read More</a>
+					</div>
+				</div>
+				<!-- process item-->
+				<div class="col-md-3 mb-6">
+					<div class="process">
+						<div class="process-number">04.</div>
+						<h3 class="process-title">Launch</h3>
+						<p class="process-content">Final step of success consectetur optio adipisicing elit Placeat alias optio repellendus recusandae odio done</p>
+						<a href="#!">Read More</a>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+	About us -->
+
 
     <div class="container divider mb-4 mt-5"> </div>
 	<!-- =======================
