@@ -165,45 +165,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- product-card -->
-                        <div class="portfolio-card isotope-item maintenance">
-                            <div class="portfolio-card-body">
-                                <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/04.jpg" alt="Maintenance Services">
-                                </div>
-                                <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/04.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Maintenance Services</a></h6>
-                                    <p>Preventive, Predictive, Corrective Maintenance</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- product-card -->
-                        <div class="portfolio-card isotope-item training">
-                            <div class="portfolio-card-body">
-                                <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/11.jpg" alt="Training Services">
-                                </div>
-                                <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/11.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Training Services</a></h6>
-                                    <p>Technical Training, Safety Training, Operator Training</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- product-card -->
-                        <div class="portfolio-card isotope-item consulting">
-                            <div class="portfolio-card-body">
-                                <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/12.jpg" alt="Consulting Services">
-                                </div>
-                                <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/12.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Consulting Services</a></h6>
-                                    <p>Technical Advice, Operational Improvement, Asset Management</p>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                     <!-- portfolio wrap -->
                 </div>
