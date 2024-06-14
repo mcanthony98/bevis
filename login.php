@@ -15,11 +15,6 @@
         <img src="assets/images/preloader.svg" alt="Pre-loader">
     </div>
 
-    <!-- Header -->
-    <?php include 'includes/navbar.php'; ?>
-
-
-
     <!-- =======================
 	Sign in -->
     <section class="p-0 d-flex align-items-center">
@@ -80,10 +75,6 @@
     </section>
     <!-- =======================
 	Sign in -->
-
-
-    <!-- Footer, CTA -->
-    <?php include 'includes/footer.php'; ?>
 
 
     <!-- Scripts -->
