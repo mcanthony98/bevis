@@ -26,6 +26,7 @@
 			<div class="row all-text-white">
 				<div class="col-md-12 align-self-center position-relative">
 					<h1 class="fw-bold display-1 mb-2 mb-md-n4 mt-9">Our Services</h1>
+                    <br>
 				</div>
 			</div>
 		</div>
@@ -34,51 +35,54 @@
 	Banner innerpage -->
 
 
-    	<!-- =======================
+	<!-- =======================
 	service -->
-	<section class="service">
+	<section class="pb-3">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-6 col-md-4">
-					<div class="feature-box h-100 icon-grad">
-						<div class="feature-box-icon"><i class="ti-panel"></i></div>
-						<h3 class="feature-box-title">Super-easy customizing</h3>
-						<p class="feature-box-desc">We have vast collection of sed do eiusmod tempor incididunt ut labore et <strong>Dolore magna aliqua.</strong> Ut enim ad minim veniam, quis nostrud.</p>
+				<!-- column 1 -->
+				<div class="col-md-4">
+					<!-- title -->
+					<h5 class="text-primary">Our services</h5>
+					<h2 class="h1">Web wesign, Search engine optimization & Online marketing.</h2>
+					<p>Partnering with 100+ Fortune 500 companies and mid-sized firms across industries, experience the best in class, uniquely customized and scalable workforce solutions.</p>
+					<!-- service item -->
+					<div class="bg-light p-4 p-lg-5 ">
+						<span class="display-5 icon-primary"><i class="ti-ruler-pencil"></i></span>
+						<h5>Graphic Design</h5>
+						<p class="mb-0">We have a strong foundation built on legacy and emerging technologies, including excellent track record of on-time deliveries. We are emerging as one of the most promising private talent sourcing and management firms in the world.</p>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4">
-					<div class="feature-box h-100 icon-grad">
-						<div class="feature-box-icon"><i class="ti-package"></i></div>
-						<h3 class="feature-box-title">Premium Plugins</h3>
-						<p class="feature-box-desc">With this template you can incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+
+				<!-- column 2 -->
+				<div class="col-md-4 mt-5">
+					<!-- service item -->
+					<div class="bg-light p-4 p-lg-5 mb-5">
+						<span class="display-5 icon-primary"><i class="ti-pencil-alt"></i></span>
+						<h5>Online Marketing</h5>
+						<p class="mb-0">We provide digital transformation solutions, enabling companies to make their visions reality. With us at your side, you will find the IT solution to achieve your strategic and financial goals.</p>
+					</div>
+					<!-- service item -->
+					<div class="bg-light p-4 p-lg-5 mb-5">
+						<span class="display-5 icon-primary"><i class="ti-image"></i></span>
+						<h5>Live Site Builder</h5>
+						<p class="mb-0">We provide digital transformation solutions, enabling companies to make their visions reality. With us at your side, you will find the IT solution to achieve your strategic and financial goals.</p>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-4">
-					<div class="feature-box h-100 icon-grad">
-						<div class="feature-box-icon"><i class="ti-credit-card"></i></div>
-						<h3 class="feature-box-title">Budget accounting</h3>
-						<p class="feature-box-desc">Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <strong>$255.00</strong> pm Duis aute irure dolor in reprehenderit in voluptate velit. </p>
+
+				<!-- column 3 -->
+				<div class="col-md-4">
+					<!-- service item -->
+					<div class="bg-grad all-text-white p-4 p-lg-5 mb-5">
+						<span class="display-5"><i class="ti-world icon-white"></i></span>
+						<h5>Ultra Performance</h5>
+						<p class="mb-0">We provide digital transformation solutions, enabling companies to make their visions reality. With us at your side, you will find the IT solution to achieve your strategic and financial goals.</p>
 					</div>
-				</div>
-				<div class="col-sm-6 col-md-4">
-					<div class="feature-box h-100 icon-grad">
-						<div class="feature-box-icon"><i class="ti-layout-slider"></i></div>
-						<h3 class="feature-box-title">Work flow automation</h3>
-						<p class="feature-box-desc">We have vast collection of sed do eiusmod tempor incididunt ut labore et <strong>Dolore magna aliqua.</strong> Ut enim ad minim veniam, quis nostrud.</p>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-4">
-					<div class="feature-box h-100 icon-grad">
-						<div class="feature-box-icon"><i class="ti-wallet"></i></div>
-						<h3 class="feature-box-title">Solution Defining</h3>
-						<p class="feature-box-desc">With this template you can incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-4">
-					<div class="feature-box h-100 icon-grad">
-						<div class="feature-box-icon"><i class="ti-share-alt"></i></div>
-						<h3 class="feature-box-title">High Performance</h3>
-						<p class="feature-box-desc">Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <strong>$255.00</strong> pm Duis aute irure dolor in reprehenderit in voluptate velit. </p>
+					<!-- service item -->
+					<div class="bg-light p-4 p-lg-5 mb-5">
+						<span class="display-5 icon-primary"><i class="ti-wallet"></i></span>
+						<h5>Premium Support</h5>
+						<p class="mb-0">We provide digital transformation solutions, enabling companies to make their visions reality. With us at your side, you will find the IT solution to achieve your strategic and financial goals.</p>
 					</div>
 				</div>
 			</div>
@@ -122,6 +126,43 @@
 	</section>
 	<!-- =======================
 	process-advance -->
+
+
+    	<!-- =======================
+	Service block -->
+	<section class="service-block">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 col-lg-6 align-self-center">
+					<div class="title text-start pb-4 p-lg-0 ">
+						<h2>Our services reflect our knowledge and in <span class="text-primary"> depth understanding</span> of the project</h2>
+						<p>Wizixo; an innovative Internet marketing solutions company that offers comprehensive web development, SMO services, SEO strategies and various other types of Internet marketing related services. </p>
+						<div class="row">
+							<div class="col-6">
+								<ul class="list-group list-group-borderless list-group-icon-primary-bg">
+									<li class="list-group-item"><i class="fa fa-check"></i>Up to 10 users monthly</li>
+									<li class="list-group-item"><i class="fa fa-check"></i>Unlimited updates</li>
+									<li class="list-group-item"><i class="fa fa-check"></i>Free host & domain included</li>
+								</ul>
+							</div>
+							<div class="col-6">
+								<ul class="list-group list-group-borderless list-group-icon-primary-bg">
+									<li class="list-group-item"><i class="fa fa-check"></i>24/7 dedicated Support </li>
+									<li class="list-group-item"><i class="fa fa-check"></i>Unlimited Storage usage</li>
+									<li class="list-group-item"><i class="fa fa-check"></i>Up to 10 user register</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-10 col-lg-6 mx-md-auto align-self-center">
+					<img class="img-fluid" src="assets/images/service/01.jpg" alt="">
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+	Service block -->
 
 
     <!-- Footer, CTA -->
