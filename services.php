@@ -203,6 +203,46 @@
 	=======================  -->
 
 
+    	<!-- =======================
+	more services  -->
+	<section>
+		<div class="container ">
+			<div class="row">
+				<div class="col-md-8 mx-auto text-center mb-5">
+					<h2 class="h1 fw-bold">Engaging, purposeful, and creative</h2>
+					<h5>At Wizixo, we transform your perception into an excellent website</h5>
+					<p>Remarkably to continuing in surrounded diminution on. In unfeeling existence objection immediate repulsive on he in. Imprudence comparison uncommonly me he difficulty diminution resolution.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="feature-box h-100 text-center px-4 py-5">
+						<div class="feature-box-icon"><img class="w-25" src="assets/images/icons/check-mark.svg" alt=""></div>
+						<h3 class="feature-box-title">Secure Payments</h3>
+						<p class="feature-box-desc">Depending in newspaper an September do existence strangers. Total great saw water had mirth happy new relation diverted in.</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="feature-box h-100 text-center all-text-white bg-grad px-4 py-5 rounded">
+						<div class="feature-box-icon"><img class="w-25" src="assets/images/icons/editor.svg" alt=""></div>
+						<h3 class="feature-box-title">Payments choice</h3>
+						<p class="feature-box-desc">Continue delicate as unlocked entirely mr relation diverted in. Known not end fully being style house totally of in chiefly.</p>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="feature-box h-100 text-center px-4 py-5">
+						<div class="feature-box-icon"><img class="w-25" src="assets/images/icons/envelope.svg" alt=""></div>
+						<h3 class="feature-box-title">Friendly Support</h3>
+						<p class="feature-box-desc">Outlived it received he material. Took yourself joy moderate off repeated laughter outweigh screened spot soon led size you. </p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+	more services  -->
+
+
     <!-- Footer, CTA -->
     <?php include 'includes/footer.php'; ?>
 
