@@ -164,6 +164,44 @@
 	<!-- =======================
 	Service block -->
 
+    	<!-- =======================
+	solutions -->
+	<section>
+		<div class="container">
+			<div class="row justify-content-between align-items-center">
+				<!--left-->
+				<div class="col-lg-6 col-md-12">
+					<div class="title text-start pb-0">
+						<span class="pre-title">Why client choose us?</span>
+						<h2>We Provide best of the <span class="text-primary"> best solutions!</span></h2>
+						<p>With years of experience Incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+						<a class="btn btn-grad me-3" href="#">Explore services!</a>
+						<a class="primary-hover text-light-gray" href="#">Request a quote</a>
+					</div>
+				</div>
+				<!--right-->
+				<div class="col-md-6">
+					<div class="row mt-4 mt-md-0">
+						<div class="col-7 ps-4 pe-2 mb-3">
+							<img class="rounded aos" data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000" data-aos-easing="ease-in-out" src="assets/images/service/02.jpg" alt="">
+						</div>
+						<div class="col-5 align-self-end ps-2 mb-3">
+							<img class="rounded aos" data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000" src="assets/images/service/01.jpg" alt="">
+						</div>
+						<div class="col-5 offset-1 px-2 mb-3">
+							<img class="rounded aos" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1500" src="assets/images/service/03.jpg" alt="">
+						</div>
+						<div class="col-5 px-2 mb-3">
+							<img class="rounded aos" data-aos="fade-left" data-aos-delay="300" data-aos-duration="1500" src="assets/images/service/04.jpg" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- solutions
+	=======================  -->
+
 
     <!-- Footer, CTA -->
     <?php include 'includes/footer.php'; ?>
