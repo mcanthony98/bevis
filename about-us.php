@@ -94,6 +94,33 @@
 	About us -->
 
 
+    <div class="container divider mb-4 mt-5"> </div>
+	<!-- =======================
+	Partners -->
+	<section class="client py-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="tiny-slider">
+						<div class="tiny-slider-inner dots-creative arrow-dark arrow-visibile" data-arrow="false" data-dots="false" data-items-xl="6" data-items-md="4" data-items-xs="2" data-autoplay="4500">
+							<div class="item"><img class="w-75" src="assets/images/clients/01.png" alt=""></div>
+							<div class="item"><img class="w-75" src="assets/images/clients/02.png" alt=""></div>
+							<div class="item"><img class="w-75" src="assets/images/clients/03.png" alt=""></div>
+							<div class="item"><img class="w-75" src="assets/images/clients/04.png" alt=""></div>
+							<div class="item"><img class="w-75" src="assets/images/clients/05.png" alt=""></div>
+							<div class="item"><img class="w-75" src="assets/images/clients/06.png" alt=""></div>
+							<div class="item"><img class="w-75" src="assets/images/clients/07.png" alt=""></div>
+							<div class="item"><img class="w-75" src="assets/images/clients/08.png" alt=""></div>
+						</div>	
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+	Partners -->
+
+
 
 
     <!-- Footer, CTA -->
