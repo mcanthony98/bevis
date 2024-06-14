@@ -203,42 +203,51 @@
 	=======================  -->
 
 
-    	<!-- =======================
-	more services  -->
-	<section>
-		<div class="container ">
+
+	<!-- =======================
+	info -->
+	<section class="">
+		<div class="container">
 			<div class="row">
-				<div class="col-md-8 mx-auto text-center mb-5">
-					<h2 class="h1 fw-bold">Engaging, purposeful, and creative</h2>
-					<h5>At Wizixo, we transform your perception into an excellent website</h5>
-					<p>Remarkably to continuing in surrounded diminution on. In unfeeling existence objection immediate repulsive on he in. Imprudence comparison uncommonly me he difficulty diminution resolution.</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4">
-					<div class="feature-box h-100 text-center px-4 py-5">
-						<div class="feature-box-icon"><img class="w-25" src="assets/images/icons/check-mark.svg" alt=""></div>
-						<h3 class="feature-box-title">Secure Payments</h3>
-						<p class="feature-box-desc">Depending in newspaper an September do existence strangers. Total great saw water had mirth happy new relation diverted in.</p>
+				<!-- left -->
+				<div class="col-md-6 pe-lg-5">
+					<!-- content -->
+					<div class="mt-5 mt-md-0">
+						<p class="bg-dark small text-white rounded px-2 py-0 mb-2 d-inline-block">Marketing</p>
+						<h2 class="h1 fw-bold">Engaging, purposeful, and creative.</h2>
+						<div class="d-flex mt-3">
+							<h6 class="display-1 opacity-2 me-3 align-self-start fw-bold">01</h6>
+							<div class="align-self-start">
+								<p>A thing that looks beautiful and attractive always grabs eyeballs. The real challenge before companies in today's world is to make their products and services appealing to everyone. thing that looks beautiful and attractive always grabs eyeballs.</p>
+								<a class="primary-hover" href="#">Read More <i class="fa fa-long-arrow-right ms-1"></i></a>
+							</div>
+						</div>
 					</div>
+					<!-- image -->
+					<img class="rounded mt-4 shadow-hover up-on-hover" src="assets/images/service/01.jpg" alt="">
 				</div>
-				<div class="col-md-4">
-					<div class="feature-box h-100 text-center all-text-white bg-grad px-4 py-5 rounded">
-						<div class="feature-box-icon"><img class="w-25" src="assets/images/icons/editor.svg" alt=""></div>
-						<h3 class="feature-box-title">Payments choice</h3>
-						<p class="feature-box-desc">Continue delicate as unlocked entirely mr relation diverted in. Known not end fully being style house totally of in chiefly.</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="feature-box h-100 text-center px-4 py-5">
-						<div class="feature-box-icon"><img class="w-25" src="assets/images/icons/envelope.svg" alt=""></div>
-						<h3 class="feature-box-title">Friendly Support</h3>
-						<p class="feature-box-desc">Outlived it received he material. Took yourself joy moderate off repeated laughter outweigh screened spot soon led size you. </p>
+
+				<!-- right -->
+				<div class="col-md-6 ps-lg-5 mt-5 mt-md-0">
+					<!-- image -->
+					<img class="rounded mb-4 shadow-hover up-on-hover" src="assets/images/service/02.jpg" alt="">
+					<!-- content -->
+					<div>
+						<p class="bg-dark small text-white rounded px-2 py-0 mb-2 d-inline-block">Advertising</p>
+						<h2 class="h1 fw-bold">Expect nothing less than perfect.</h2>
+						<div class="d-flex mt-3">
+							<h6 class="display-1 opacity-2 me-3 align-self-start fw-bold">02</h6>
+							<div class="align-self-start">
+								<p>We have a strong foundation built on legacy and emerging technologies, including excellent track record of on-time deliveries. We are emerging as one of the most promising private talent sourcing and management firms in the world.</p>
+								<a class="primary-hover" href="#">Read More <i class="fa fa-long-arrow-right ms-1"></i></a>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
+
 	<!-- =======================
 	more services  -->
 
