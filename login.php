@@ -21,7 +21,7 @@ Sign in -->
         <div class="container-fluid">
             <div class="row">
                 <!-- left -->
-                <div class="col-12 col-md-5 col-lg-4 d-md-flex align-items-center bg-grad vh-sm-100">
+                <div class="col-12 col-md-5 col-lg-4 d-md-flex align-items-center vh-sm-100" style="background-color: #2bb673;">
                     <div class="w-100 p-3 p-lg-5 all-text-white">
                         <div class="justify-content-center align-self-center">
                             <!-- Image Logo -->
