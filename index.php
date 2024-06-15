@@ -90,14 +90,16 @@ Main banner -->
                     <div class="bg-light p-3 p-md-5 rounded text-center">
                         <div class="tiny-slider">
                             <div class="tiny-slider-inner" data-arrow="false" data-dots="false" data-autoplay="3800" data-items-xl="6" data-items-md="4" data-items-sm="3" data-items-xs="2">
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/01.png" alt=""></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/02.png" alt=""></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/03.png" alt=""></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/04.png" alt=""></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/05.png" alt=""></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/06.png" alt=""></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/07.png" alt=""></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/clients/08.png" alt=""></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c1.png" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c2.webp" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c3.png" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c4.jpg" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c5.png" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c6.png" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c1.png" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c2.webp" alt="" style="height: 100px;"></div>
+
+
                             </div>
                         </div>
                     </div>
@@ -116,9 +118,9 @@ Main banner -->
             <div class="row">
                 <div class="col-12 col-lg-8 mx-auto">
                     <div class="title text-center">
-                        <span class="pre-title">Our Featured Products</span>
+                        <span class="pre-title">Our Products</span>
                         <h2>Comprehensive Solutions for Africa</h2>
-                        <p class="mb-0">Bevis Africa offers a wide range of products and services to support the needs of our clients in the mining, power, and industrial sectors. Our offerings are designed to enhance efficiency, reliability, and sustainability.</p>
+                        <p class="mb-0">Bevis Africa offers a wide range of products and services to support the needs of our clients. Our offerings are designed to enhance efficiency, reliability, and sustainability.</p>
                     </div>
                 </div>
             </div>
@@ -129,12 +131,12 @@ Main banner -->
                         <div class="portfolio-card isotope-item engineering">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/01.jpg" alt="Engineering Services">
+                                    <img src="assets/images/jiko.jpg" alt="Engineering Services">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/01.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Engineering Services</a></h6>
-                                    <p>Feasibility Studies, Design, Project Management</p>
+                                    <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Sustainable Jiko</a></h6>
+                                    <p>Ksh. 7,000</p>
                                 </div>
                             </div>
                         </div>
@@ -142,12 +144,12 @@ Main banner -->
                         <div class="portfolio-card isotope-item procurement">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/02.jpg" alt="Procurement Services">
+                                    <img src="assets/images/jiko.jpg" alt="Procurement Services">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/02.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Procurement Services</a></h6>
-                                    <p>Strategic Sourcing, Logistics, Materials Management</p>
+                                    <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Product 2</a></h6>
+                                    <p>Ksh. 10,000</p>
                                 </div>
                             </div>
                         </div>
@@ -155,12 +157,12 @@ Main banner -->
                         <div class="portfolio-card isotope-item construction">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/03.jpg" alt="Construction Services">
+                                    <img src="assets/images/jiko.jpg" alt="Construction Services">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/03.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Construction Services</a></h6>
-                                    <p>Civil Works, Mechanical, Electrical, Instrumentation</p>
+                                    <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="#" title="">Product 3</a></h6>
+                                    <p>Ksh. 8,000</p>
                                 </div>
                             </div>
                         </div>
