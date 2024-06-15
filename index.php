@@ -30,7 +30,7 @@ Main Banner -->
                             <div class="col-lg-8 col-xl-6 me-auto slider-content justify-content-center align-self-center align-items-start text-start">
                                 <h2 class="animate__animated animate__fadeInUp animate__delay-1s display-2 fw-bold text-white">Revolutionizing Climate Resilience in Africa</h2>
                                 <h3 class="animate__animated animate__fadeInUp animate__delay-2s text-white display-7 alt-font fst-italic mb-2 my-md-4">Empowering small-scale producers through technology and carbon markets</h3>
-                                <div class="animate__animated animate__fadeInUp animate__delay-3s mt-3 dealy-1500"><a href="#" class="btn btn-grad">Apply for Carbon Credits</a> <a href="login.php" class="btn btn-link text-white">Learn More</a></div>
+                                <div class="animate__animated animate__fadeInUp animate__delay-3s mt-3 dealy-1500"><a href="#" class="btn btn-grad">Apply for Carbon Credits</a> <a href="about.php" class="btn btn-link text-white">Learn More</a></div>
                             </div>
                         </div>
                     </div>
@@ -63,7 +63,7 @@ Main banner -->
             <div class="row">
                 <!-- left -->
                 <div class="col-md-10 col-lg-7 align-self-center ">
-                    <img class="rounded" src="assets/images/banner/04.jpg" alt="">
+                    <img class="rounded" src="assets/images/banner4.jpg" alt="">
                 </div>
                 <!-- right -->
                 <div class="col-md-12 col-lg-5 align-self-center mt-4 mt-lg-0">
@@ -71,7 +71,7 @@ Main banner -->
                         <span class="pre-title">About Bevis Africa</span>
                         <h2>Powering Africa's Growth for Over <span class="text-primary">40 Years</span></h2>
                         <p>Bevis Africa is a leading engineering, procurement, construction and maintenance company serving the mining, power, and industrial sectors across Africa. With a track record of delivering complex projects in remote locations, we are committed to safety, quality, and sustainability.</p>
-                        <a href="#" class="btn btn-outline-primary">Read more</a>
+                        <a href="about.php" class="btn btn-outline-primary">Read more</a>
                     </div>
                 </div>
             </div>
