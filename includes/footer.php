@@ -36,7 +36,7 @@ footer  -->
 				<div class="col-md-4 col-sm-6">
 					<div class="widget address" style="background-image: url('assets/images/world-map.png'); background-position: 50% 20px; background-repeat: no-repeat; background-size: contain;">
 						<ul class="list-group list-group-borderless">
-							<li class="d-flex mb-3"><i class="me-3 display-8 ti-map-alt"></i>Terry House, Nairobi, Kenya</li>
+							<li class="d-flex mb-3"><i class="me-3 display-8 ti-map-alt"></i>Terry House, Mfangano Street, Nairobi</li>
 							<li class="d-flex mb-3"><i class="me-3 display-8 ti-headphone-alt"></i> 0703145010 / 0726314189 </li>
 							<li class="d-flex mb-3"><i class="me-3 display-8 ti-email"></i> info@bevisafrica.com</li>
 							<li class="d-flex mb-3"><i class="me-3 display-8 ti-time"></i>
