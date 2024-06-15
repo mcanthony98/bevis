@@ -113,7 +113,7 @@ header Start-->
 
 					<!-- Menu item 5 -->
 					<li class="nav-item">
-						<a class="nav-link" href="contact.php" id="demosMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact Us</a>
+						<a class="nav-link" href="contact.php#contact" id="demosMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact Us</a>
 					</li>
 
 				</ul>
@@ -127,7 +127,7 @@ header Start-->
 				</div>
 				<!-- extra item Btn-->
 				<div class="nav-item border-0 d-none d-lg-inline-block align-self-center">
-					<a href="login.php" class=" btn btn-sm btn-grad text-white mb-0">Access Carbon Markets</a>
+					<a href="login.php" class=" btn btn-sm btn-grad text-white mb-0">Apply for Carbon Credits</a>
 				</div>
 			</div>
 			<!-- Header Extras End-->
