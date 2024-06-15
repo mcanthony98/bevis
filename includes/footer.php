@@ -8,8 +8,9 @@ call to action-->
 				<p class="m-0">Bevis Africa is dedicated to revolutionizing climate resilience by leveraging technology to empower small-scale producers in greenhouse gas emission reduction across Africa.</p>
 			</div>
 			<div class="mt-3 mt-md-0 text-center text-md-end ms-md-auto align-self-center">
-				<button class="btn btn-white mb-0">Learn More</button>
+				<a href="about.php" class="btn btn-white w-100 mb-4">Learn More</a>
 			</div>
+
 		</div>
 	</div>
 </section>

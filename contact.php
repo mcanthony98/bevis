@@ -122,15 +122,15 @@ contact -->
 									<div class="col-md-12 d-grid">
 										<div class="col-md-12 d-grid">
 											<div class="col-md-12 d-grid">
-												<button class="btn btn-dark m-0 mx-auto" type="submit" style="width: 200px;">Send Message</button>
+												<button class="btn btn-dark m-0 mx-auto" type="submit" style="width: 200px;">
+													<a href="thank-you-contact.php" style="color: white; text-decoration: none;">Send Message</a>
+												</button>
 											</div>
 										</div>
 									</div>
+
+
 								</div>
-							</div>
-
-
-					</div>
 	</section>
 	<!-- =======================
 contact -->
