@@ -135,7 +135,7 @@ Main banner -->
                                 </div>
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Sustainable Jiko</a></h6>
+                                    <h6 class="info-title"><a href="product.php" title="">Sustainable Jiko</a></h6>
                                     <p>Ksh. 7,000</p>
                                 </div>
                             </div>
@@ -148,7 +148,7 @@ Main banner -->
                                 </div>
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Product 2</a></h6>
+                                    <h6 class="info-title"><a href="product.php" title="">Product 2</a></h6>
                                     <p>Ksh. 10,000</p>
                                 </div>
                             </div>
@@ -161,7 +161,7 @@ Main banner -->
                                 </div>
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Product 3</a></h6>
+                                    <h6 class="info-title"><a href="product.php" title="">Product 3</a></h6>
                                     <p>Ksh. 8,000</p>
                                 </div>
                             </div>

@@ -27,7 +27,7 @@ portfolio -->
 			<!-- Portfolio info -->
 			<div class="row mb-4">
 				<div class="col-md-8 mx-auto text-center">
-					<h2 class="display-3">Introducing the Eco-Friendly Jiko</h2>
+					<h2 class="display-3">Eco-Friendly Jiko</h2>
 					<p>- Empowering Communities, Protecting the Environment -</p>
 					<p class="lead">Bevis Africa is proud to present our revolutionary, sustainable, and cost-effective jiko. Designed to meet the cooking needs of households while reducing environmental impact, our jiko is a game-changer in the world of clean cooking solutions. By harnessing renewable energy sources and innovative technology, we're empowering communities and contributing to a greener future.</p>
 					<a class="btn btn-grad mt-4 mb-5" data-glightbox="" href="https://youtu.be/n_Cn8eFo7u8"> <i class="fa fa-play text-white"></i>See the Jiko in Action</a>
@@ -129,52 +129,13 @@ portfolio -->
 				<div class="col-md-12">
 					<p>Join us in our mission to revolutionize the way we cook, one household at a time. By choosing Bevis Africa's eco-friendly jiko, you're not only investing in a high-quality, efficient cooking solution but also contributing to the well-being of our planet and the empowerment of communities. Together, we can create a cleaner, greener, and more sustainable future.</p>
 				</div>
+				<div class="col-md-12 text-center">
+					<a class="btn btn-grad mt-4 mb-5" href="cart.php" style="width: 200px; margin: 0 auto;">Buy</a>
+				</div>
+
 			</div>
 			<!-- portfolio details End -->
 
-			<div class="row">
-				<div class="col-md-12">
-					<!-- tag and share -->
-					<div class="divider mb-4"></div>
-					<div class="row">
-						<div class="tags col-12 col-sm-8 text-center text-sm-start">
-							<a class="mb-2 mb-sm-0" href="#">sustainable</a>
-							<a class="mb-2 mb-sm-0" href="#">eco-friendly</a>
-							<a class="mb-2 mb-sm-0" href="#">clean cooking</a>
-							<a class="mb-2 mb-sm-0" href="#">renewable energy</a>
-							<a class="mb-2 mb-sm-0" href="#">jiko</a>
-						</div>
-						<div class="col-12 col-sm-4 text-center text-sm-end">
-							<ul class="social-icons si-colored-bg light">
-								<li class="social-icons-item social-facebook mb-0"><a class="social-icons-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
-								<li class="social-icons-item social-twitter mb-0"><a class="social-icons-link" href="#"><i class="fab fa-twitter"></i></a></li>
-								<li class="social-icons-item social-instagram mb-0"><a class="social-icons-link" href="#"><i class="fab fa-instagram"></i></a></li>
-								<li class="social-icons-item social-linkedin mb-0"><a class="social-icons-link" href="#"><i class="fab fa-linkedin-in"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="divider mt-4"></div>
-
-					<!-- navigation -->
-					<div class="row post-navigation mt-5">
-						<div class="col-5 position-relative">
-							<a href="#" class="post-prev">
-								<p class="m-2 m-lg-0">Previous Post</p>
-								<h6 class="text-truncate d-none d-lg-block">Empowering Small-Scale Farmers</h6>
-							</a>
-						</div>
-						<div class="col-2">
-							<a href="portfolio-grid-column-3.html" class="all-post" title="View all post"> <i class="fa fa-th"></i> </a>
-						</div>
-						<div class="col-5 position-relative">
-							<a href="#" class="post-next">
-								<p class="m-2 m-lg-0">Next Post</p>
-								<h6 class="text-truncate d-none d-lg-block">Driving Climate Action</h6>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
 		</div>
 		<!-- portfolio End -->
 	</section>
