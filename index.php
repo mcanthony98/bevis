@@ -250,7 +250,7 @@ Our Products -->
     <!-- =======================
 Portfolio -->
     <section class="portfolio portfolio-link pb-0">
-        <div class="container">
+        <div class="container" id="projects">
             <div class="row">
                 <div class="col-md-8 mx-auto text-center mb-3">
                     <h2 class="h1">Featured Projects</h2>
