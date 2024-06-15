@@ -49,7 +49,7 @@ contact -->
 					</div>
 				</div>
 			</div>
-			<div class="row g-4">
+			<div class="row g-6">
 				<div class="col-md-6">
 					<div class="contact-box d-flex flex-column h-100 bg-overlay-dark-7 px-3 py-4" style="background:url(assets/images/bg/04.jpg) no-repeat; background-size: cover; background-position: center center;">
 						<!-- Address -->
@@ -73,7 +73,7 @@ contact -->
 					</div>
 				</div>
 				<!-- google map -->
-				<div class="col-md-5">
+				<div class="col-md-6">
 					<div class="h-100">
 						<iframe class="w-100 h-100 grayscale rounded" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255282.3237508814!2d41.06250454693217!3d-2.2692246928326373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182780e6e8b7cc03%3A0xae34049c6caf6d53!2sLamu%20Island!5e0!3m2!1sen!2ske!4v1623667252195!5m2!1sen!2ske" style="border:0;" aria-hidden="false" tabindex="0"></iframe>
 					</div>
@@ -82,10 +82,12 @@ contact -->
 			</div>
 			<br>
 
-			<div class="row g-4">
+			<div class="row g-6">
 				<!-- contact form -->
-				<div class="col-md-11">
+				<div class="col-md-12">
 					<div class="h-100">
+						<br>
+						<br>
 						<h3>Interested in our services? Let's connect!</h3>
 						<p>Get in touch with us to learn more about how we can help you access the voluntary carbon market and contribute to the fight against climate change.</p>
 						<form class="contact-form needs-validation" id="contact-form" name="contactform" method="POST" action="https://wizixo.webestica.com/assets/include/contact-action.php" novalidate>
@@ -116,15 +118,19 @@ contact -->
 									</div>
 								</div>
 								<!-- submit button -->
-								<div class="col-md-12 d-grid"><button class="btn btn-dark m-0" type="submit">Send Message</button></div>
+								<div class="col-md-12 d-grid">
+									<div class="col-md-12 d-grid">
+										<div class="col-md-12 d-grid">
+											<div class="col-md-12 d-grid">
+												<button class="btn btn-dark m-0 mx-auto" type="submit" style="width: 200px;">Send Message</button>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
-						</form>
+
+
 					</div>
-				</div>
-			</div>
-
-
-		</div>
 	</section>
 	<!-- =======================
 contact -->
