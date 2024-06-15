@@ -82,12 +82,12 @@ header Start-->
 
 					<!-- Menu item 1 -->
 					<li class="nav-item">
-						<a class="nav-link" href="index.php" id="demosMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
+						<a class="nav-link" href="index.php" id="demosMenu" aria-haspopup="true" aria-expanded="false">Home</a>
 					</li>
 
 					<!-- Menu item 2 -->
 					<li class="nav-item">
-						<a class="nav-link" href="about.php" id="demosMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
+						<a class="nav-link" href="about.php" id="demosMenu" aria-haspopup="true" aria-expanded="false">About Us</a>
 					</li>
 
 					<!-- Menu item 3 -->
@@ -113,7 +113,7 @@ header Start-->
 
 					<!-- Menu item 5 -->
 					<li class="nav-item">
-						<a class="nav-link" href="contact.php#contact" id="demosMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact Us</a>
+						<a class="nav-link" href="contact.php#contact" id="demosMenu" aria-haspopup="true" aria-expanded="false">Contact Us</a>
 					</li>
 
 				</ul>

@@ -114,7 +114,7 @@ Main banner -->
     <!-- =======================
 	Our Products -->
     <section class="portfolio portfolio-style-2 pb-0">
-        <div class="container">
+        <div class="container" id="products">
             <div class="row">
                 <div class="col-12 col-lg-8 mx-auto">
                     <div class="title text-center">
