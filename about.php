@@ -104,7 +104,7 @@ About us -->
 				<div class="col-md-6 align-self-center text-center text-sm-center text-md-start">
 					<p class="pe-0 pe-lg-5">Bevis Africa is dedicated to expanding the reach and impact of climate action through the voluntary carbon market. We onboard small-scale farmers, fishermen, artisanal miners, and pastoralists, providing them with the tools and resources needed to reduce greenhouse gas emissions and enhance their resilience to climate change.</p>
 					<p class="pe-0 pe-lg-5">Our innovative technology and comprehensive strategy are accelerating the funding of essential ecosystem restoration efforts, promoting sustainable development, and contributing to the overall mitigation of climate change.</p>
-					<a class="btn btn-outline-light" href="#">Explore our projects!</a>
+					<a class="btn btn-outline-light" href="index.php#projects">Explore our projects!</a>
 				</div>
 			</div>
 			<!-- row end -->
@@ -114,7 +114,6 @@ About us -->
 					<div class="process">
 						<h3 class="process-title">01. Identify</h3>
 						<p class="process-content">We identify small-scale producers and assess their potential for greenhouse gas emission reduction and carbon sequestration.</p>
-						<a href="#!">Read More</a>
 					</div>
 				</div>
 				<!-- process item-->
@@ -122,7 +121,6 @@ About us -->
 					<div class="process">
 						<h3 class="process-title">02. Develop</h3>
 						<p class="process-content">We develop carbon offset projects tailored to the specific needs and challenges of each community, ensuring maximum impact and sustainability.</p>
-						<a href="#!">Read More</a>
 					</div>
 				</div>
 				<!-- process item-->
@@ -130,7 +128,6 @@ About us -->
 					<div class="process">
 						<h3 class="process-title">03.Implement</h3>
 						<p class="process-content">We implement the projects on the ground, providing training, support, and resources to ensure their success and long-term viability.</p>
-						<a href="#!">Read More</a>
 					</div>
 				</div>
 				<!-- process item-->
@@ -138,7 +135,6 @@ About us -->
 					<div class="process">
 						<h3 class="process-title">04. Monitor</h3>
 						<p class="process-content">We continuously monitor and evaluate the projects to ensure their effectiveness, transparency, and adherence to international standards.</p>
-						<a href="#!">Read More</a>
 					</div>
 				</div>
 
@@ -199,11 +195,6 @@ Team -->
 							<h5 class="team-name">John Doe</h5>
 							<span class="team-position">CEO and Founder</span>
 							<p>An experienced entrepreneur with a passion for driving sustainable development and climate action across Africa.</p>
-							<ul class="social-icons si-colored-on-hover">
-								<li class="social-icons-item social-facebook"><a class="social-icons-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
-								<li class="social-icons-item social-instagram"><a class="social-icons-link" href="#"><i class="fab fa-instagram"></i></a></li>
-								<li class="social-icons-item social-twitter"><a class="social-icons-link" href="#"><i class="fab fa-twitter"></i></a></li>
-							</ul>
 						</div>
 					</div>
 				</div>
@@ -217,11 +208,6 @@ Team -->
 							<h5 class="team-name">Jane Smith</h5>
 							<span class="team-position">CTO</span>
 							<p>A seasoned technology expert with a strong background in developing innovative solutions for climate change mitigation.</p>
-							<ul class="social-icons si-colored-on-hover">
-								<li class="social-icons-item social-facebook"><a class="social-icons-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
-								<li class="social-icons-item social-instagram"><a class="social-icons-link" href="#"><i class="fab fa-instagram"></i></a></li>
-								<li class="social-icons-item social-twitter"><a class="social-icons-link" href="#"><i class="fab fa-twitter"></i></a></li>
-							</ul>
 						</div>
 					</div>
 				</div>
@@ -235,11 +221,6 @@ Team -->
 							<h5 class="team-name">Mark Johnson</h5>
 							<span class="team-position">Director of Operations</span>
 							<p>An accomplished professional with extensive experience in project management and community engagement.</p>
-							<ul class="social-icons si-colored-on-hover">
-								<li class="social-icons-item social-facebook"><a class="social-icons-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
-								<li class="social-icons-item social-instagram"><a class="social-icons-link" href="#"><i class="fab fa-instagram"></i></a></li>
-								<li class="social-icons-item social-twitter"><a class="social-icons-link" href="#"><i class="fab fa-twitter"></i></a></li>
-							</ul>
 						</div>
 					</div>
 				</div>
@@ -266,7 +247,7 @@ Team -->
 			<div class="row">
 				<div class="col-12 col-lg-8 mx-auto text-center mt-5">
 					<h6>Join us in our mission to revolutionize climate resilience and drive sustainable development across Africa.</h6>
-					<a class="btn btn-grad" href="#!">Get Involved</a>
+					<a class="btn btn-grad" href="login.php">Get Involved</a>
 				</div>
 			</div>
 		</div>
