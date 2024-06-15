@@ -1,6 +1,6 @@
 <!-- =======================
 header Start-->
-<header class="header-static navbar-sticky navbar-light">
+<header class="header-static navbar-light">
 	<!-- Search -->
 	<div class="top-search collapse bg-light" id="search-open" data-bs-parent="#search">
 		<div class="container">

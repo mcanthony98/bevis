@@ -41,18 +41,18 @@ Cart -->
                                     <tr>
                                         <td>
                                             <div class="d-flex align-items-center">
-                                                <img src="assets/images/product/jiko.jpg" alt="Eco-Friendly Jiko" class="img-fluid rounded" width="60">
+                                                <img src="assets/images/jiko.jpg" alt="Eco-Friendly Jiko" class="img-fluid rounded" width="60">
                                                 <div class="ms-3">
                                                     <h6 class="mb-0">Eco-Friendly Jiko</h6>
                                                     <small class="text-muted">SKU: JK-001</small>
                                                 </div>
                                             </div>
                                         </td>
-                                        <td>$99.99</td>
+                                        <td>Ksh. 7,000</td>
                                         <td>
                                             <input type="number" class="form-control" value="1" min="1" max="10">
                                         </td>
-                                        <td>$99.99</td>
+                                        <td>Ksh. 7,000</td>
                                         <td>
                                             <button type="button" class="btn btn-link text-danger"><i class="ti-close"></i></button>
                                         </td>
@@ -61,9 +61,9 @@ Cart -->
                             </table>
                         </div>
                         <div class="d-flex justify-content-between align-items-center mt-4">
-                            <a href="shop.php" class="btn btn-link">Continue Shopping</a>
+                            <a href="index.php#products" class="btn btn-link">Continue Shopping</a>
                             <div>
-                                <span class="me-3">Subtotal: <strong>$99.99</strong></span>
+                                <span class="me-3">Subtotal: <strong>Ksh. 7,000</strong></span>
                                 <a href="checkout.php" class="btn btn-dark">Proceed to Checkout</a>
                             </div>
                         </div>

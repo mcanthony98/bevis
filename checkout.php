@@ -94,11 +94,14 @@ Checkout -->
                                 </div>
                             </div>
                             <hr class="my-4">
-                            <button class="btn btn-dark w-100 mb-4" type="submit">Place Order</button>
+                            <a href="thank-you-purchase.php" class="btn btn-dark w-100 mb-4">Place Order</a>
                             <a href="cart.php" class="btn btn-link w-100">Return to Cart</a>
                         </form>
                     </div>
                 </div>
+                <br>
+                <br>
+                <br>
                 <div class="col-lg-5">
                     <div class="bg-light p-4 sticky-top">
                         <h5 class="mb-3">Order Summary</h5>
@@ -108,18 +111,18 @@ Checkout -->
                                     <h6 class="my-0">Eco-Friendly Jiko</h6>
                                     <small class="text-muted">Quantity: 1</small>
                                 </div>
-                                <span class="text-muted">$99.99</span>
+                                <span class="text-muted">Ksh. 7,000</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <div>
                                     <h6 class="my-0">Shipping</h6>
                                     <small class="text-muted">Standard Delivery</small>
                                 </div>
-                                <span class="text-muted">$9.99</span>
+                                <span class="text-muted">Ksh. 500</span>
                             </li>
                             <li class="d-flex justify-content-between align-items-center">
-                                <span>Total (USD)</span>
-                                <strong>$109.98</strong>
+                                <span>Total (KSH)</span>
+                                <strong>Ksh. 7,500</strong>
                             </li>
                         </ul>
                     </div>

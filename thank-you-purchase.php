@@ -31,31 +31,8 @@ Thank You (Product Purchase) -->
                         <p class="lead">Congratulations on taking a step towards a cleaner, greener future by purchasing our eco-friendly jiko.</p>
                         <p>Your order has been successfully processed, and we will be in touch with you shortly to arrange for delivery.</p>
                         <div class="mt-5">
-                            <a href="index.php" class="btn btn-dark">Back to Home</a>
+                            <a href="index.php#products" class="btn btn-dark">Back to Home</a>
                         </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-md-4">
-                    <div class="feature-box h-100 icon-primary">
-                        <div class="feature-box-icon"><i class="ti-shopping-cart"></i></div>
-                        <h3 class="feature-box-title">Your Order</h3>
-                        <p class="feature-box-desc">Order Number: <strong>#123456</strong><br>Product: Eco-Friendly Jiko<br>Quantity: 1</p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="feature-box h-100 icon-primary">
-                        <div class="feature-box-icon"><i class="ti-truck"></i></div>
-                        <h3 class="feature-box-title">Shipping</h3>
-                        <p class="feature-box-desc">Your jiko will be shipped to the address provided during checkout. Expect to receive your order within 5-7 business days.</p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="feature-box h-100 icon-primary">
-                        <div class="feature-box-icon"><i class="ti-headphone-alt"></i></div>
-                        <h3 class="feature-box-title">Support</h3>
-                        <p class="feature-box-desc">If you have any questions or concerns about your order, please contact our customer support team at <a href="mailto:info@bevisafrica.com">info@bevisafrica.com</a>.</p>
                     </div>
                 </div>
             </div>
