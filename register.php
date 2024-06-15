@@ -103,7 +103,7 @@
 									</div>
 									<p class="text-muted small mt-3">Please note that every form submitted will be followed up by an onsite visit.</p>
 									<div class="row align-items-center g-0 m-0 mt-4">
-										<div class="col-6"><span class="text-muted">Already have an account? <a href="sign-in.html">Sign in</a></span></div>
+										<div class="col-6"><span class="text-muted">Already have an account? <a href="login.php">Sign in</a></span></div>
 										<div class="col-6 text-end"><button class="btn btn-dark ">Sign me up!</button></div>
 									</div>
 								</div>

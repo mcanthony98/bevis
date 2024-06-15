@@ -50,12 +50,12 @@ Sign in -->
                                     <div>
                                         <div class="d-flex justify-content-between align-items-center">
                                             <p class="text-start mb-2">Password</p>
-                                            <a class="text-muted small mb-2" href="password-recovery.html">Forgot your password?</a>
+                                            <a class="text-muted small mb-2" href="forgot-pass.php">Forgot your password?</a>
                                         </div>
                                         <span class="form-group"><input type="password" class="form-control" placeholder="*********"></span>
                                     </div>
                                     <div class="row align-items-center g-0 m-0">
-                                        <div class="col-6 col-md-8"><span class="text-muted">Don't have an account? <a href="sign-up.html">Sign up</a></span></div>
+                                        <div class="col-6 col-md-8"><span class="text-muted">Don't have an account? <a href="register.php">Sign up</a></span></div>
                                         <div class="col-6 col-md-4 text-end"><button class="btn btn-dark ">Log In</button></div>
                                     </div>
                                 </div>
