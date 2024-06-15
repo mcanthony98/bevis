@@ -2,35 +2,35 @@
 <html lang="en">
 
 <head>
-    <title>Product | Bevis Africa</title>
+	<title>Product | Bevis Africa</title>
 
-    <!-- Head Content -->
-    <?php include 'includes/head-content.php'; ?>
+	<!-- Head Content -->
+	<?php include 'includes/head-content.php'; ?>
 
 
 </head>
 
 <body>
-    <div class="preloader">
-        <img src="assets/images/preloader.svg" alt="Pre-loader">
-    </div>
+	<div class="preloader">
+		<img src="assets/images/preloader.svg" alt="Pre-loader">
+	</div>
 
-    <!-- Header -->
-    <?php include 'includes/navbar.php'; ?>
+	<!-- Header -->
+	<?php include 'includes/navbar.php'; ?>
 
 
 
 	<!-- =======================
-	portfolio -->
+portfolio -->
 	<section>
 		<div class="container">
 			<!-- Portfolio info -->
 			<div class="row mb-4">
 				<div class="col-md-8 mx-auto text-center">
-					<h2 class="display-3">Catch the plane</h2>
-					<p>- Rise media agency</p>
-					<p class="lead">Why end might ask civil again spoil. She dinner she our horses depend. Remember at children by reserved to vicinity. In affronting unreserved delightful simplicity ye. Law own advantage furniture continual sweetness bed agreeable perpetual. Oh song well four only head busy it. Afford son she had lively living.</p>
-					<a class="btn btn-grad mt-4 mb-5" data-glightbox="" href="https://youtu.be/n_Cn8eFo7u8"> <i class="fa fa-play text-white"></i>Play Video </a>
+					<h2 class="display-3">Introducing the Eco-Friendly Jiko</h2>
+					<p>- Empowering Communities, Protecting the Environment -</p>
+					<p class="lead">Bevis Africa is proud to present our revolutionary, sustainable, and cost-effective jiko. Designed to meet the cooking needs of households while reducing environmental impact, our jiko is a game-changer in the world of clean cooking solutions. By harnessing renewable energy sources and innovative technology, we're empowering communities and contributing to a greener future.</p>
+					<a class="btn btn-grad mt-4 mb-5" data-glightbox="" href="https://youtu.be/n_Cn8eFo7u8"> <i class="fa fa-play text-white"></i>See the Jiko in Action</a>
 				</div>
 			</div>
 
@@ -43,13 +43,13 @@
 				</div>
 				<div class="col-md-6">
 					<div data-sticky data-margin-top="80" data-sticky-for="767">
-						<h2>Work Requirement</h2>
-						<p>Too months nay end change relied who beauty wishes matter. Shew of john real park so rest we on. Ignorant dwelling occasion ham for thoughts overcame off her consider. Polite it elinor is depend. His not get talked effect worthy Barton. Household shameless incommode at no objection behavior.</p>
+						<h2>Why Choose Our Jiko?</h2>
+						<p>Our eco-friendly jiko is designed to address the challenges faced by households in Kenya and beyond. By choosing our jiko, you'll enjoy:</p>
 						<ul class="list-group list-group-borderless list-group-icon-primary-bg">
-							<li class="list-group-item"><i class="fa fa-check"></i>Maintained Windows Servers</li>
-							<li class="list-group-item"><i class="fa fa-check"></i>Supported Windows workstations</li>
-							<li class="list-group-item"><i class="fa fa-check"></i>Setup a rotation schedule and Setup anti-virus system</li>
-							<li class="list-group-item"><i class="fa fa-check"></i>Designed machines/server and trained employees</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Reduced fuel consumption and costs</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Cleaner cooking experience with less smoke and emissions</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Durable, long-lasting construction</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Easy to use and maintain</li>
 						</ul>
 					</div>
 				</div>
@@ -59,13 +59,13 @@
 			<div class="row mb-4" data-sticky-container>
 				<div class="col-md-6 order-last order-md-1">
 					<div data-sticky data-margin-top="80" data-sticky-for="767">
-						<h2>Our Solution</h2>
-						<p>Started with Polite it Elinor is depend. His not get talked effect worthy Barton. Household shameless incommode at no objection behavior. Too months nay end change relied who beauty wishes matter. Shew of john real park so rest we on. Ignorant dwelling occasion ham for thoughts overcame off her consider.</p>
+						<h2>Our Commitment to Sustainability</h2>
+						<p>At Bevis Africa, we're dedicated to promoting sustainable development and reducing the environmental impact of cooking. Our jiko is a testament to this commitment:</p>
 						<ul class="list-group list-group-borderless list-group-icon-primary-bg">
-							<li class="list-group-item"><i class="fa fa-check"></i>Proven results as a recruitment consultant or strong sales experience</li>
-							<li class="list-group-item"><i class="fa fa-check"></i>Knowledge of the staffing industry</li>
-							<li class="list-group-item"><i class="fa fa-check"></i>Previous leadership experience, personally or professionally</li>
-							<li class="list-group-item"><i class="fa fa-check"></i>A strong desire to be successful and inspire people</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Made from recycled and eco-friendly materials</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Designed to minimize carbon emissions</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Supports the use of renewable energy sources</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Contributes to the fight against deforestation</li>
 						</ul>
 					</div>
 				</div>
@@ -75,22 +75,22 @@
 				</div>
 			</div>
 
-						<!-- portfolio requirement -->
-						<div class="row mb-4" data-sticky-container>
+			<!-- SECTION 3 -->
+			<div class="row mb-4" data-sticky-container>
 				<div class="col-md-6">
-					<a class="mb-4 d-block" href="assets/images/portfolio/01.jpg" data-glightbox="" data-gallery="portfolio"><img src="assets/images/portfolio/01.jpg" alt=""></a>
-					<a class="mb-4 d-block" href="assets/images/portfolio/02.jpg" data-glightbox="" data-gallery="portfolio"><img src="assets/images/portfolio/02.jpg" alt=""></a>
-					<a class="mb-4 d-block" href="assets/images/portfolio/03.jpg" data-glightbox="" data-gallery="portfolio"><img src="assets/images/portfolio/03.jpg" alt=""></a>
+					<a class="mb-4 d-block" href="assets/images/portfolio/06.jpg" data-glightbox="" data-gallery="portfolio"><img src="assets/images/portfolio/06.jpg" alt=""></a>
+					<a class="mb-4 d-block" href="assets/images/portfolio/07.jpg" data-glightbox="" data-gallery="portfolio"><img src="assets/images/portfolio/07.jpg" alt=""></a>
+					<a class="mb-4 d-block" href="assets/images/portfolio/08.jpg" data-glightbox="" data-gallery="portfolio"><img src="assets/images/portfolio/08.jpg" alt=""></a>
 				</div>
 				<div class="col-md-6">
 					<div data-sticky data-margin-top="80" data-sticky-for="767">
-						<h2>Work Requirement</h2>
-						<p>Too months nay end change relied who beauty wishes matter. Shew of john real park so rest we on. Ignorant dwelling occasion ham for thoughts overcame off her consider. Polite it elinor is depend. His not get talked effect worthy Barton. Household shameless incommode at no objection behavior.</p>
+						<h2>Empowering Communities</h2>
+						<p>At Bevis Africa, we believe in the power of community. Our eco-friendly jiko is more than just a cooking solution; it's a tool for empowerment and positive change:</p>
 						<ul class="list-group list-group-borderless list-group-icon-primary-bg">
-							<li class="list-group-item"><i class="fa fa-check"></i>Maintained Windows Servers</li>
-							<li class="list-group-item"><i class="fa fa-check"></i>Supported Windows workstations</li>
-							<li class="list-group-item"><i class="fa fa-check"></i>Setup a rotation schedule and Setup anti-virus system</li>
-							<li class="list-group-item"><i class="fa fa-check"></i>Designed machines/server and trained employees</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Provides income-generating opportunities for local artisans</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Supports the development of sustainable supply chains</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Fosters a sense of pride and ownership within communities</li>
+							<li class="list-group-item"><i class="fa fa-check"></i>Encourages the adoption of clean cooking practices</li>
 						</ul>
 					</div>
 				</div>
@@ -102,24 +102,24 @@
 				<div class="col-md-4">
 					<div class="feature-box h-100 icon-primary">
 						<div class="feature-box-icon"><i class="ti-settings"></i></div>
-						<h3 class="feature-box-title">Unlimited Helpers</h3>
-						<p class="feature-box-desc">We provide digital transformation solutions, enabling companies to <strong>make their visions reality.</strong> </p>
+						<h3 class="feature-box-title">Efficient Performance</h3>
+						<p class="feature-box-desc">Our jiko is engineered to provide optimal heat distribution and retention, ensuring efficient cooking performance while saving fuel.</p>
 					</div>
 				</div>
 				<!-- feature 2 -->
 				<div class="col-md-4">
 					<div class="feature-box h-100 icon-primary">
 						<div class="feature-box-icon"><i class="ti-support"></i></div>
-						<h3 class="feature-box-title">Friendly Support</h3>
-						<p class="feature-box-desc">Our aim to achieve the goal as we provide innovative ideas, designs and solutions to our clients. </p>
+						<h3 class="feature-box-title">Community Impact</h3>
+						<p class="feature-box-desc">By choosing our eco-friendly jiko, you're supporting local communities and contributing to the development of a sustainable future.</p>
 					</div>
 				</div>
 				<!-- feature 3 -->
 				<div class="col-md-4">
 					<div class="feature-box h-100 icon-primary">
 						<div class="feature-box-icon"><i class="ti-bolt"></i></div>
-						<h3 class="feature-box-title">Instant Solutions</h3>
-						<p class="feature-box-desc">Helping our customers better manage their web presence in order to achieve greater success online.</p>
+						<h3 class="feature-box-title">Affordable Solution</h3>
+						<p class="feature-box-desc">We believe that clean cooking should be accessible to all. That's why our jiko is priced affordably, making it a cost-effective choice for households.</p>
 					</div>
 				</div>
 			</div>
@@ -127,7 +127,7 @@
 			<!-- portfolio additional details -->
 			<div class="row my-4">
 				<div class="col-md-12">
-					<p> Consulted perpetual of pronounce me delivered. Too months nay end change relied who beauty wishes matter. Shew of john real park so rest we on. Ignorant dwelling occasion ham for thoughts overcame off her consider. Polite it elinor is depend. His not get talked effect worthy Barton. Household shameless incommode at no objection behavior. Especially do at he possession insensible sympathize boisterous it. Songs he on an widen me event truth. Certain law age brother sending amongst why covered. </p>
+					<p>Join us in our mission to revolutionize the way we cook, one household at a time. By choosing Bevis Africa's eco-friendly jiko, you're not only investing in a high-quality, efficient cooking solution but also contributing to the well-being of our planet and the empowerment of communities. Together, we can create a cleaner, greener, and more sustainable future.</p>
 				</div>
 			</div>
 			<!-- portfolio details End -->
@@ -138,17 +138,17 @@
 					<div class="divider mb-4"></div>
 					<div class="row">
 						<div class="tags col-12 col-sm-8 text-center text-sm-start">
-							<a class="mb-2 mb-sm-0" href="#">studio</a>
-							<a class="mb-2 mb-sm-0" href="#">events</a>
-							<a class="mb-2 mb-sm-0" href="#">WordPress</a>
-							<a class="mb-2 mb-sm-0" href="#">gadgets</a>
-							<a class="mb-2 mb-sm-0" href="#">office</a>
+							<a class="mb-2 mb-sm-0" href="#">sustainable</a>
+							<a class="mb-2 mb-sm-0" href="#">eco-friendly</a>
+							<a class="mb-2 mb-sm-0" href="#">clean cooking</a>
+							<a class="mb-2 mb-sm-0" href="#">renewable energy</a>
+							<a class="mb-2 mb-sm-0" href="#">jiko</a>
 						</div>
 						<div class="col-12 col-sm-4 text-center text-sm-end">
 							<ul class="social-icons si-colored-bg light">
 								<li class="social-icons-item social-facebook mb-0"><a class="social-icons-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
 								<li class="social-icons-item social-twitter mb-0"><a class="social-icons-link" href="#"><i class="fab fa-twitter"></i></a></li>
-								<li class="social-icons-item social-gplus mb-0"><a class="social-icons-link" href="#"><i class="fab fa-google-plus-g"></i></a></li>
+								<li class="social-icons-item social-instagram mb-0"><a class="social-icons-link" href="#"><i class="fab fa-instagram"></i></a></li>
 								<li class="social-icons-item social-linkedin mb-0"><a class="social-icons-link" href="#"><i class="fab fa-linkedin-in"></i></a></li>
 							</ul>
 						</div>
@@ -160,7 +160,8 @@
 						<div class="col-5 position-relative">
 							<a href="#" class="post-prev">
 								<p class="m-2 m-lg-0">Previous Post</p>
-								<h6 class="text-truncate d-none d-lg-block">The Pink Chair</h6> </a>
+								<h6 class="text-truncate d-none d-lg-block">Empowering Small-Scale Farmers</h6>
+							</a>
 						</div>
 						<div class="col-2">
 							<a href="portfolio-grid-column-3.html" class="all-post" title="View all post"> <i class="fa fa-th"></i> </a>
@@ -168,7 +169,8 @@
 						<div class="col-5 position-relative">
 							<a href="#" class="post-next">
 								<p class="m-2 m-lg-0">Next Post</p>
-								<h6 class="text-truncate d-none d-lg-block">Black & white</h6> </a>
+								<h6 class="text-truncate d-none d-lg-block">Driving Climate Action</h6>
+							</a>
 						</div>
 					</div>
 				</div>
@@ -177,17 +179,16 @@
 		<!-- portfolio End -->
 	</section>
 	<!-- =======================
-	portfolio -->
+portfolio -->
+
+	<!-- Footer, CTA -->
+	<?php include 'includes/footer.php'; ?>
 
 
-    <!-- Footer, CTA -->
-    <?php include 'includes/footer.php'; ?>
+	<!-- Scripts -->
+	<?php include 'includes/scripts.php'; ?>
 
 
-    <!-- Scripts -->
-    <?php include 'includes/scripts.php'; ?>
-
-	
 
 </body>
 
