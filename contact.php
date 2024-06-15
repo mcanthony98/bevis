@@ -25,7 +25,7 @@ Banner innerpage -->
 		<div class="container">
 			<div class="row all-text-white">
 				<div class="col-md-12 align-self-center">
-					<h6 class="display-6 fw-bold mt-9 mb-0">Call us at 0703145010 / 0726314189</h6>
+					<h1 class="display-6 fw-bold mt-9 mb-0">&nbsp;</h1>
 					<h1 class="fw-bold display-1 mb-2 mb-md-n4">Contact Us</h1>
 					<br>
 					<br>
@@ -50,7 +50,7 @@ contact -->
 				</div>
 			</div>
 			<div class="row g-4">
-				<div class="col-md-3">
+				<div class="col-md-6">
 					<div class="contact-box d-flex flex-column h-100 bg-overlay-dark-7 px-3 py-4" style="background:url(assets/images/bg/04.jpg) no-repeat; background-size: cover; background-position: center center;">
 						<!-- Address -->
 						<div class="all-text-white mb-4">
@@ -65,7 +65,7 @@ contact -->
 							<p>info@bevisafrica.com</p>
 						</div>
 						<!-- Phone -->
-						<div class="all-text-white">
+						<div class="all-text-white mb-4">
 							<div class="fs-4"><i class="ti-panel"></i></div>
 							<h5 class="mb-2">Phone</h5>
 							<p class="mb-0">0703145010<br>0726314189</p>
@@ -73,13 +73,18 @@ contact -->
 					</div>
 				</div>
 				<!-- google map -->
-				<div class="col-md-3">
+				<div class="col-md-5">
 					<div class="h-100">
 						<iframe class="w-100 h-100 grayscale rounded" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255282.3237508814!2d41.06250454693217!3d-2.2692246928326373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182780e6e8b7cc03%3A0xae34049c6caf6d53!2sLamu%20Island!5e0!3m2!1sen!2ske!4v1623667252195!5m2!1sen!2ske" style="border:0;" aria-hidden="false" tabindex="0"></iframe>
 					</div>
 				</div>
+
+			</div>
+			<br>
+
+			<div class="row g-4">
 				<!-- contact form -->
-				<div class="col-md-6">
+				<div class="col-md-11">
 					<div class="h-100">
 						<h3>Interested in our services? Let's connect!</h3>
 						<p>Get in touch with us to learn more about how we can help you access the voluntary carbon market and contribute to the fight against climate change.</p>
@@ -117,6 +122,8 @@ contact -->
 					</div>
 				</div>
 			</div>
+
+
 		</div>
 	</section>
 	<!-- =======================
