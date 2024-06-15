@@ -35,7 +35,26 @@ Sign in -->
                         </ul>
                     </div>
                 </div>
-
+                <!-- Right -->
+                <div class="col-12 col-md-7 col-xl-8 mx-auto my-5">
+                    <div class="row h-100">
+                        <div class="col-12 col-md-10 col-lg-5 text-start mx-auto d-flex align-items-center">
+                            <div class="w-100">
+                                <h2>Forgot Password?</h2>
+                                <h5 class="fw-light">To receive a new password, enter your email address below.</h5>
+                                <div class="form mt-4 ">
+                                    <div>
+                                        <p class="text-start mb-2">Email address</p>
+                                        <span class="form-group"><input type="email" class="form-control" placeholder="E-mail"></span>
+                                    </div>
+                                    <div class="row align-items-center g-0 m-0">
+                                        <div class="col-6"><button class="btn btn-dark ">Recover your Password</button></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
             </div>
         </div>
