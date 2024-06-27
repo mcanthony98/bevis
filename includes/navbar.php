@@ -94,21 +94,17 @@ header Start-->
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="index.php#products" id="docMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
 						<ul class="dropdown-menu" aria-labelledby="docMenu">
-							<li> <a class="dropdown-item" href="product.php">Product 1</a> </li>
-							<li> <a class="dropdown-item" href="product.php">Product 2</a> </li>
-							<li> <a class="dropdown-item" href="product.php">Product 3</a> </li>
+
+							<li> <a class="dropdown-item" href="product.php">Cooking Stove</a> </li>
+							<li> <a class="dropdown-item" href="product.php">Wood Stove</a> </li>
+							<li> <a class="dropdown-item" href="product.php">Solar Lighting</a> </li>
 
 						</ul>
 					</li>
 
 					<!-- Menu item 4 -->
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="services.php" id="docMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Solutions</a>
-						<ul class="dropdown-menu" aria-labelledby="docMenu">
-							<li> <a class="dropdown-item" href="services.php">Marketplace</a> </li>
-							<li> <a class="dropdown-item" href="services.php">DMRV</a> </li>
-
-						</ul>
+					<li class="nav-item">
+						<a class="nav-link" href="services.php" id="demosMenu" aria-haspopup="true" aria-expanded="false">Custom Solutions</a>
 					</li>
 
 					<!-- Menu item 5 -->
