@@ -53,7 +53,7 @@ About us -->
 					</div>
 				</div>
 				<div class="col-md-10 col-lg-6 mx-md-auto align-self-center position-relative">
-					<img class="rounded" src="assets/images/blog/02.jpg" alt="">
+					<img class="rounded" src="assets/images/new/bevis-main.jpg" alt="">
 				</div>
 			</div>
 			<!-- row end -->
