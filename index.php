@@ -258,7 +258,7 @@ Our Products -->
 
 
     <!-- =======================
-	Testimonials -->
+Testimonials -->
     <section class="bg-light">
         <div class="container">
             <div class="tiny-slider dots-dark">
@@ -268,13 +268,13 @@ Our Products -->
                         <div class="row align-items-center">
                             <div class="col-md-10 col-lg-6 mx-md-auto align-self-center">
                                 <div class="text-start">
-                                    <h2>MacoInfo saved $1M with Wizixo</h2>
-                                    <p class="mb-0 lead">"I am really satisfied with my service. Thanks to service, we've just launched our 5th website! You guys rock!"</p>
+                                    <h2>Transforming Carbon Markets with Bevis Africa</h2>
+                                    <p class="mb-0 lead">"Bevis Africa's innovative approach has revolutionized our carbon offset projects. Truly game-changing!"</p>
                                     <div class="d-flex mt-3">
                                         <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/new/bevis-13.jpg" alt="avatar" style="height: 100px;"></h6>
                                         <div class="align-self-center">
-                                            <h5 class="mb-2">Nix Maxwell</h5>
-                                            <p>CEO and co-founder, MacoInfo</p>
+                                            <h5 class="mb-2">John Njoroge</h5>
+                                            <p>CEO, GreenFuture</p>
                                         </div>
                                     </div>
                                 </div>
@@ -289,20 +289,19 @@ Our Products -->
                         <div class="row">
                             <div class="col-md-10 col-lg-6 mx-md-auto align-self-center">
                                 <div class="text-start">
-                                    <h2>BerryDesign Start new business with us!</h2>
-                                    <p class="mb-0 lead">"You guys rock! Buy this now. I made back the purchase price in just 48 hours!"</p>
+                                    <h2>Empowering Communities with Carbon Credits</h2>
+                                    <p class="mb-0 lead">"Thanks to Bevis Africa, we've empowered local farmers and fishermen to contribute to climate action and earn sustainable incomes."</p>
                                     <div class="d-flex mt-3">
                                         <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/new/bevis-12.jpg" alt="avatar" style="height: 100px;"></h6>
                                         <div class="align-self-center">
-                                            <h5 class="mb-2">Maria Smith</h5>
-                                            <p>CEO and Founder, BerryDesign</p>
+                                            <h5 class="mb-2">Jane Kilonzo</h5>
+                                            <p>Founder, EcoWave</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-10 col-lg-6 mx-md-auto align-self-center mt-4 mt-lg-0 position-relative">
                                 <img class="rounded" src="assets/images/new/bevis-12.jpg" alt="">
-
                             </div>
                         </div>
                     </div>
@@ -311,7 +310,8 @@ Our Products -->
         </div>
     </section>
     <!-- =======================
-	Testimonials -->
+Testimonials -->
+
 
 
     <!-- Footer, CTA -->
