@@ -141,12 +141,12 @@ Partners -->
                         <div class="portfolio-card isotope-item engineering">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/jiko.jpg" alt="Engineering Services">
+                                    <img src="assets/images/prod-1c.jpg" alt="Cooking Stove" style="height: 400px;">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="product.php" title="">Sustainable Jiko</a></h6>
-                                    <p>Ksh. 7,000</p>
+                                    <a class="full-screen" href="assets/images/prod-1c.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="product.php" title="">Cooking Stove</a></h6>
+                                    <p>Ksh. 3,000</p>
                                 </div>
                             </div>
                         </div>
@@ -154,12 +154,12 @@ Partners -->
                         <div class="portfolio-card isotope-item procurement">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/jiko.jpg" alt="Procurement Services">
+                                    <img src="assets/images/prod-2a.jpg" alt="Wooden Stove" style="height: 400px;">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="product.php" title="">Product 2</a></h6>
-                                    <p>Ksh. 10,000</p>
+                                    <a class="full-screen" href="assets/images/prod-2a.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="product.php" title="">Wooden Stove</a></h6>
+                                    <p>Ksh. 3,300</p>
                                 </div>
                             </div>
                         </div>
@@ -167,12 +167,12 @@ Partners -->
                         <div class="portfolio-card isotope-item construction">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/jiko.jpg" alt="Construction Services">
+                                    <img src="assets/images/prod-3a.png" alt="Solar Lighting" style="height: 400px;">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="product.php" title="">Product 3</a></h6>
-                                    <p>Ksh. 8,000</p>
+                                    <a class="full-screen" href="assets/images/prod-3a.png" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="product.php" title="">Solar Lighting</a></h6>
+                                    <p>Ksh. 35,000</p>
                                 </div>
                             </div>
                         </div>
@@ -236,7 +236,7 @@ Our Products -->
             <div class="row justify-content-between align-items-center">
                 <!-- left -->
                 <div class="col-md-6">
-                    <img class="rounded" src="assets/images/blog/03.jpg" alt="">
+                    <img class="rounded" src="assets/images/new/bevis-2.jpg" alt="">
                 </div>
                 <!-- right -->
                 <div class="col-md-6 mt-4 mt-md-0">
@@ -271,7 +271,7 @@ Our Products -->
                                     <h2>MacoInfo saved $1M with Wizixo</h2>
                                     <p class="mb-0 lead">"I am really satisfied with my service. Thanks to service, we've just launched our 5th website! You guys rock!"</p>
                                     <div class="d-flex mt-3">
-                                        <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/thumbnails/avatar-01.jpg" alt="avatar"></h6>
+                                        <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/new/bevis-13.jpg" alt="avatar" style="height: 100px;"></h6>
                                         <div class="align-self-center">
                                             <h5 class="mb-2">Nix Maxwell</h5>
                                             <p>CEO and co-founder, MacoInfo</p>
@@ -280,10 +280,7 @@ Our Products -->
                                 </div>
                             </div>
                             <div class="col-md-10 col-lg-6 mx-md-auto align-self-center mt-4 mt-lg-0 position-relative">
-                                <img class="rounded" src="assets/images/bg/small/02.jpg" alt="">
-                                <div class="position-absolute start-0 bottom-0 ms-4 ms-md-0 ms-md-n2 mb-3">
-                                    <a class="btn btn-grad" data-glightbox href="https://youtu.be/n_Cn8eFo7u8"> <i class="fa fa-play text-white"></i>Play Video </a>
-                                </div>
+                                <img class="rounded" src="assets/images/new/bevis-13.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -295,7 +292,7 @@ Our Products -->
                                     <h2>BerryDesign Start new business with us!</h2>
                                     <p class="mb-0 lead">"You guys rock! Buy this now. I made back the purchase price in just 48 hours!"</p>
                                     <div class="d-flex mt-3">
-                                        <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/thumbnails/avatar-03.jpg" alt="avatar"></h6>
+                                        <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/new/bevis-12.jpg" alt="avatar" style="height: 100px;"></h6>
                                         <div class="align-self-center">
                                             <h5 class="mb-2">Maria Smith</h5>
                                             <p>CEO and Founder, BerryDesign</p>
@@ -304,10 +301,8 @@ Our Products -->
                                 </div>
                             </div>
                             <div class="col-md-10 col-lg-6 mx-md-auto align-self-center mt-4 mt-lg-0 position-relative">
-                                <img class="rounded" src="assets/images/bg/small/01.jpg" alt="">
-                                <div class="position-absolute start-0 bottom-0 ms-4 ms-md-0 ms-md-n2 mb-3">
-                                    <a class="btn btn-grad" data-glightbox href="https://youtu.be/n_Cn8eFo7u8"> <i class="fa fa-play text-white"></i>Play Video </a>
-                                </div>
+                                <img class="rounded" src="assets/images/new/bevis-12.jpg" alt="">
+
                             </div>
                         </div>
                     </div>
