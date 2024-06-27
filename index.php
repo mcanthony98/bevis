@@ -36,11 +36,14 @@ Main Banner -->
                     </div>
                 </div>
                 <!-- slide 2-->
-                <div class="h-100 bg-overlay-dark-2" style="background-image:url(assets/images/banner2.jpg); background-position: center top; background-size: cover;">
+                <div class="h-100 bg-overlay-dark-2" style="background-image:url(assets/images/new/bevis-main-2-crop.jpg); background-position: center bottom; background-size: cover;">
                     <div class="container h-100">
                         <div class="row d-flex h-100">
                             <div class="col-md-8 justify-content-center align-self-center align-items-start mx-auto">
                                 <div class="slider-content text-center">
+                                    <br>
+                                    <br>
+                                    <br>
                                     <h3 class="animate__animated animate__fadeInUp animate__delay-1s display-7 text-white alt-font fst-italic">Driving sustainable development through innovative climate solutions</h3>
                                     <h2 class="animate__animated animate__fadeInUp animate__delay-2s display-3 fw-bold text-white">Join us in the fight against climate change</h2>
                                     <div class="animate__animated animate__fadeInUp animate__delay-3s mt-3 dealy-1500"><a href="contact.php#contact" class="btn btn-grad">Partner with Us</a></div>
@@ -63,7 +66,7 @@ Main banner -->
             <div class="row">
                 <!-- left -->
                 <div class="col-md-10 col-lg-7 align-self-center ">
-                    <img class="rounded" src="assets/images/banner4.jpg" alt="">
+                    <img class="rounded" src="assets/images/new/bevis-6.jpg" alt="">
                 </div>
                 <!-- right -->
                 <div class="col-md-12 col-lg-5 align-self-center mt-4 mt-lg-0">
