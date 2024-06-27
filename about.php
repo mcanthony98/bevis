@@ -43,7 +43,7 @@ About us -->
 					<div class="title text-start">
 						<span class="pre-title">We are Bevis Africa!</span>
 						<h2>We are a <span class="text-primary">Climate Fintech Company</span> focused on accelerating regenerative finance and reducing carbon emissions.</h2>
-						<p class="mb-0">Our mission is to revolutionize climate resilience by leveraging technology to empower small-scale farmers, fishermen, artisanal miners, and pastoralists in greenhouse gas emission reduction across Africa.</p>
+						<p class="mb-0">Our mission is to provide value-driven investments through carbon financing. We identify small-scale producers and assess their potential for greenhouse gas emission reduction and carbon sequestration.</p>
 						<div class="list-group-inline list-group-number list-unstyled mt-4">
 							<a href="#" class="list-group-item list-group-item-action"><span>01</span> Regenerative Agriculture</a>
 							<a href="#" class="list-group-item list-group-item-action"><span>02</span> Blue Carbon Ecosystems</a>
