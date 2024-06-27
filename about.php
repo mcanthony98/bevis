@@ -145,24 +145,30 @@ About us -->
 About us -->
 
 
-	<div class="container divider mb-4 mt-5"> </div>
 	<!-- =======================
 Partners -->
-	<section class="p-0 pt-4">
+	<section class="p-0 pt-2">
 		<div class="container">
 			<div class="row">
+				<div class="col-12 col-lg-8 mx-auto">
+					<div class="title text-center">
+						<span class="pre-title">Our Partners</span>
+					</div>
+				</div>
+			</div>
+			<div class="row">
 				<div class="col-12">
-					<div class="bg-light p-3 p-md-5 rounded text-center">
+					<div class="bg-white p-3 p-md-5 rounded text-center">
 						<div class="tiny-slider">
 							<div class="tiny-slider-inner" data-arrow="false" data-dots="false" data-autoplay="3800" data-items-xl="6" data-items-md="4" data-items-sm="3" data-items-xs="2">
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c1.png" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c2.webp" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c3.png" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c4.jpg" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c5.png" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c6.png" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c1.png" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c2.webp" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/lamu-p1.png" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/gold-std-p2.png" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/kenia-p3.png" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/min-sports-p4.jpeg" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/usiu-p5.png" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/kemri-p6.png" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/icr-p8.jpg" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/verra-p9.webp" alt="" style="height: 100px;"></div>
 
 
 							</div>
@@ -174,6 +180,9 @@ Partners -->
 	</section>
 	<!-- =======================
 Partners -->
+
+
+	<div class="container divider mb-4 mt-5"> </div>
 
 
 	<!-- =======================
