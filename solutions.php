@@ -93,6 +93,84 @@
 	service -->
 
 
+
+	<!-- =======================
+	service slider -->
+	<section class="blog bg-light">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-lg-8 mx-auto">
+					<div class="title text-center">
+						<h2>Read our news, comments & thoughts</h2>
+						<p>Facere nam dicta quia error non debitis accusantium. Unde explicabo perferendis assumenda obcaecati ut deserunt aliquam cupiditate fugiat animi corrupti illo velit.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="tiny-slider arrow-dark arrow-hover">
+						<div class="tiny-slider-inner" data-arrow="true" data-dots="false" data-items-xl="3" data-items-lg="3" data-items-md="2" data-items-sm="2" data-items-xs="1" data-autoplay="4500">
+							<!-- post -->
+							<div class="item">
+								<div class="post">
+									<img src="assets/images/blog/01.jpg" alt="">
+									<div class="post-info">
+										<span class="post-tag bg-grad text-white mb-3 clearfix"><a href="#!">Trend</a></span>
+										<div class="post-author"><a href="#!"> By Allen C</a></div>,
+										<div class="post-time"><a href="#!">2 Hours ago</a></div>
+										<a class="post-title" href="#!">The Stories Behind those Iconic Blogs</a>
+										<p class="mb-0">Two assure Edward whence the was. Who worthy yet ten boy denote wonder that!</p>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="post">
+									<img src="assets/images/blog/02.jpg" alt="">
+									<div class="post-info">
+										<span class="post-tag bg-grad text-white mb-3 clearfix"><a href="#!">Craft</a></span>
+										<div class="post-author"><a href="#!"> By Mark C</a></div>,
+										<div class="post-time"><a href="#!">19 Hours ago</a></div>
+										<a class="post-title" href="#!">Right my front it wound cause fully am sorry</a>
+										<p class="mb-0">Weeks views her sight old tears sorry suspected its concealed put furnished</p>
+									</div>
+								</div>
+							</div>
+							<!-- post -->
+							<div class="item">
+								<div class="post">
+									<img src="assets/images/blog/03.jpg" alt="">
+									<div class="post-info">
+										<span class="post-tag bg-grad text-white mb-3 clearfix"><a href="#!">Business</a></span>
+										<div class="post-author"><a href="#!"> By Stephen C</a></div>,
+										<div class="post-time"><a href="#!">1 day ago</a></div>
+										<a class="post-title" href="#!">Months had too ham cousin remove far spirit</a>
+										<p class="mb-0">Two assure Edward whence the was. Who worthy yet ten boy denote wonder that!</p>
+									</div>
+								</div>
+							</div>
+							<!-- post -->
+							<div class="item">
+								<div class="post">
+									<img src="assets/images/blog/04.jpg" alt="">
+									<div class="post-info">
+										<span class="post-tag bg-grad text-white mb-3 clearfix"><a href="#!">Creative</a></span>
+										<div class="post-author"><a href="#!"> By Smith C</a></div>,
+										<div class="post-time"><a href="#!">2 Days ago</a></div>
+										<a class="post-title" href="#!">7 Great Lessons You Can Learn From Business</a>
+										<p class="mb-0">Ample order up in of in ready timed blind had now those ought set often which</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+	service slider -->
+
 	<!-- =======================
 	process-advance -->
 	<section class="process-advance bg-light">
