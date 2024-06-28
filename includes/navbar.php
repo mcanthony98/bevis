@@ -113,7 +113,7 @@ header Start-->
 
 					<!-- Menu item 4 -->
 					<li class="nav-item">
-						<a class="nav-link" href="services.php" id="demosMenu" aria-haspopup="true" aria-expanded="false">Custom Solutions</a>
+						<a class="nav-link" href="solutions.php" id="demosMenu" aria-haspopup="true" aria-expanded="false">Custom Solutions</a>
 					</li>
 
 					<!-- Menu item 5 -->
