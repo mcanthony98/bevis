@@ -67,6 +67,10 @@
                                 <tr>
                                     <th scope="col">Application ID</th>
                                     <th scope="col">Date</th>
+                                    <th scope="col">Country</th>
+                                    <th scope="col">I represent</th>
+                                    <th scope="col">Farming Type</th>
+                                    <th scope="col">Type of Carbon Offset</th>
                                     <th scope="col">Status</th>
                                 </tr>
                             </thead>
@@ -74,16 +78,28 @@
                                 <tr>
                                     <th scope="row">1</th>
                                     <td>2023-06-01</td>
+                                    <td>Kenya</td>
+                                    <td>Farmer</td>
+                                    <td>Crop Farming</td>
+                                    <td>Soil Carbon</td>
                                     <td>Pending</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
                                     <td>2023-05-15</td>
+                                    <td>Uganda</td>
+                                    <td>Fisherman</td>
+                                    <td>Other</td>
+                                    <td>Forest Carbon</td>
                                     <td>Approved</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
                                     <td>2023-04-30</td>
+                                    <td>Tanzania</td>
+                                    <td>Pastoralist</td>
+                                    <td>Livestock Farming</td>
+                                    <td>Soil Carbon</td>
                                     <td>Rejected</td>
                                 </tr>
                             </tbody>
@@ -93,6 +109,7 @@
             </div>
         </div>
     </section>
+
 
     <!-- Apply Now -->
     <section>
