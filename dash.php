@@ -37,12 +37,12 @@
     </nav>
 
     <!-- Main Banner -->
-    <section class="p-0 h-500 h-lg-700 bg-parallax" style="background:url(assets/images/new/bevis-main.jpg) no-repeat 65% 0%; background-size:cover;">
+    <section class="p-0 h-300 h-lg-500 bg-parallax" style="background:url(assets/images/banner.jpg) no-repeat 65% 0%; background-size:cover;">
         <div class="container h-100">
             <div class="row justify-content-between align-items-center h-100">
                 <div class="col-md-8 mb-7">
-                    <h1 class="display-4 fw-bold">Welcome to Your Dashboard</h1>
-                    <p class="lead">Manage your applications and access the voluntary carbon market with ease.</p>
+                    <h1 class="display-4 fw-bold" style="color: white;">Welcome to Your Dashboard</h1>
+                    <p class="lead" style="color: white;">Manage your applications and access the voluntary carbon market with ease.</p>
                 </div>
             </div>
         </div>
