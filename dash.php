@@ -5,6 +5,12 @@
     <title>User Dashboard | Bevis Africa</title>
     <!-- Head Content -->
     <?php include 'includes/head-content.php'; ?>
+    <style>
+        .logo-navbar {
+            max-height: 40px;
+            width: auto;
+        }
+    </style>
 </head>
 
 <body>
@@ -14,14 +20,15 @@
     <!-- Header -->
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container">
-            <a class="navbar-brand" href="index.php">
-                <img src="assets/images/logo.png" alt="">
+            <a class="navbar-brand d-flex align-items-center" href="index.php">
+                <img src="assets/images/bevis-logo.jpg" alt="Logo" class="logo-navbar me-2" style="max-height: 40px;">
+                <span>Customer Dashboard</span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav me-auto">
+                <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
                         <a class="nav-link" href="edit-profile.php">Edit Profile</a>
                     </li>
@@ -37,11 +44,11 @@
     </nav>
 
     <!-- Main Banner -->
-    <section class="p-0 h-300 h-lg-500 bg-parallax" style="background:url(assets/images/banner.jpg) no-repeat 65% 0%; background-size:cover;">
+    <section class="p-0 h-300 h-lg-400 bg-parallax" style="background:url(assets/images/banner.jpg) no-repeat 65% 0%; background-size:cover;">
         <div class="container h-100">
             <div class="row justify-content-between align-items-center h-100">
-                <div class="col-md-8 mb-7">
-                    <h1 class="display-4 fw-bold" style="color: white;">Welcome to Your Dashboard</h1>
+                <div class="col-md-8 mb-4">
+                    <h1 class="display-4 fw-bold" style="color: white;">Welcome</h1>
                     <p class="lead" style="color: white;">Manage your applications and access the voluntary carbon market with ease.</p>
                 </div>
             </div>
