@@ -42,45 +42,13 @@ contact -->
 	<section class="contact-page">
 		<div class="container">
 			<div class="row">
-				<div class="col-12 col-lg-8 mx-auto">
+				<div class="col-12 col-lg-8 mx-auto" id="contact">
 					<div class="title text-center">
 						<h2>How can we help you?</h2>
 						<p>Our team at Bevis Africa is dedicated to assisting you with any questions or concerns you may have about our services, projects, or the voluntary carbon market.</p>
 					</div>
 				</div>
 			</div>
-			<div class="row g-6">
-				<div class="col-md-6">
-					<div class="contact-box d-flex flex-column h-100 bg-overlay-dark-7 px-3 py-4" style="background:url(assets/images/bg/04.jpg) no-repeat; background-size: cover; background-position: center center;">
-						<!-- Address -->
-						<div class="all-text-white mb-4">
-							<div class="fs-4"><i class="ti-map-alt"></i></div>
-							<h5 class="mb-2">Address</h5>
-							<p>Pwani House, Lamu, Kenya<br>TERRY HOUSE, 4th Floor, Mfangano Street, Nairobi, Kenya</p>
-						</div>
-						<!-- Email -->
-						<div class="all-text-white mb-4">
-							<div class="fs-4"><i class="ti-email"></i></div>
-							<h5 class="mb-2">E-mail</h5>
-							<p>info@bevisafrica.com</p>
-						</div>
-						<!-- Phone -->
-						<div class="all-text-white mb-4">
-							<div class="fs-4"><i class="ti-panel"></i></div>
-							<h5 class="mb-2">Phone</h5>
-							<p class="mb-0">0703145010<br>0726314189</p>
-						</div>
-					</div>
-				</div>
-				<!-- google map -->
-				<div class="col-md-6">
-					<div class="h-100">
-						<iframe class="w-100 h-100 grayscale rounded" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255282.3237508814!2d41.06250454693217!3d-2.2692246928326373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182780e6e8b7cc03%3A0xae34049c6caf6d53!2sLamu%20Island!5e0!3m2!1sen!2ske!4v1623667252195!5m2!1sen!2ske" style="border:0;" aria-hidden="false" tabindex="0"></iframe>
-					</div>
-				</div>
-
-			</div>
-			<br>
 
 			<div class="row g-6">
 				<!-- contact form -->
@@ -131,6 +99,48 @@ contact -->
 
 
 								</div>
+							</div>
+					</div>
+				</div>
+			</div>
+
+			<br>
+
+
+
+			<div class="row g-6">
+				<div class="col-md-6">
+					<div class="contact-box d-flex flex-column h-100 bg-overlay-dark-7 px-3 py-4" style="background:url(assets/images/new/bevis-10.jpg) no-repeat; background-size: cover; background-position: center center;">
+						<!-- Address -->
+						<div class="all-text-white mb-4">
+							<div class="fs-4"><i class="ti-map-alt"></i></div>
+							<h5 class="mb-2">Address</h5>
+							<p>Pwani House, Lamu, Kenya<br>TERRY HOUSE, 4th Floor, Mfangano Street, Nairobi, Kenya</p>
+						</div>
+						<!-- Email -->
+						<div class="all-text-white mb-4">
+							<div class="fs-4"><i class="ti-email"></i></div>
+							<h5 class="mb-2">E-mail</h5>
+							<p>info@bevisafrica.com</p>
+						</div>
+						<!-- Phone -->
+						<div class="all-text-white mb-4">
+							<div class="fs-4"><i class="ti-panel"></i></div>
+							<h5 class="mb-2">Phone</h5>
+							<p class="mb-0">0703145010<br>0726314189</p>
+						</div>
+					</div>
+				</div>
+				<!-- google map -->
+				<div class="col-md-6">
+					<div class="h-100">
+						<iframe class="w-100 h-100 grayscale rounded" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255282.3237508814!2d41.06250454693217!3d-2.2692246928326373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182780e6e8b7cc03%3A0xae34049c6caf6d53!2sLamu%20Island!5e0!3m2!1sen!2ske!4v1623667252195!5m2!1sen!2ske" style="border:0;" aria-hidden="false" tabindex="0"></iframe>
+					</div>
+				</div>
+
+			</div>
+
+
 	</section>
 	<!-- =======================
 contact -->

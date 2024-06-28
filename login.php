@@ -56,7 +56,7 @@ Sign in -->
                                     </div>
                                     <div class="row align-items-center g-0 m-0">
                                         <div class="col-6 col-md-8"><span class="text-muted">Don't have an account? <a href="register.php">Sign up</a></span></div>
-                                        <div class="col-6 col-md-4 text-end"><button class="btn btn-dark ">Log In</button></div>
+                                        <div class="col-6 col-md-4 text-end"><a href="dash.php" class="btn btn-dark">Log In</a></div>
                                     </div>
                                 </div>
                             </div>
@@ -64,7 +64,6 @@ Sign in -->
                     </div>
                 </div>
             </div>
-        </div>
     </section>
     <!-- =======================
 Sign in -->

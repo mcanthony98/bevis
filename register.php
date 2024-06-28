@@ -16,12 +16,12 @@
 	</div>
 
 	<!-- =======================
-	Sign up -->
+Sign up -->
 	<section class="p-0 d-flex align-items-center">
 		<div class="container-fluid">
 			<div class="row">
 				<!-- left -->
-				<div class="col-12 col-md-5 col-lg-4 d-md-flex align-items-center vh-sm-100" style="background-color: #2bb673;">
+				<div class="col-12 col-md-5 col-lg-4 d-md-flex align-items-center vh-100" style="background-color: #2bb673;">
 					<div class="w-100 p-3 p-lg-5 all-text-white">
 						<div class="justify-content-center align-self-center">
 							<!-- Image Logo -->
@@ -42,69 +42,27 @@
 							<div class="w-100">
 								<h2>Create your account</h2>
 								<h5 class="fw-light">Join Bevis Africa today and start accessing the voluntary carbon market.</h5>
-								<div class="form mt-4 ">
+								<div class="form mt-4">
 									<div>
 										<p class="text-start mb-2">First and Last Name</p>
 										<span class="form-group"><input type="text" class="form-control" placeholder="Enter your full name"></span>
-									</div>
-									<div>
-										<p class="text-start mb-2">County in Kenya</p>
-										<span class="form-group"><input type="text" class="form-control" placeholder="Enter your county"></span>
 									</div>
 									<div>
 										<p class="text-start mb-2">Email address</p>
 										<span class="form-group"><input type="email" class="form-control" placeholder="Enter your email"></span>
 									</div>
 									<div>
-										<p class="text-start mb-2">Phone Number</p>
-										<span class="form-group"><input type="tel" class="form-control" placeholder="Enter your phone number"></span>
+										<p class="text-start mb-2">Password</p>
+										<span class="form-group"><input type="password" class="form-control" placeholder="Enter your password"></span>
 									</div>
 									<div>
-										<p class="text-start mb-2">I represent</p>
-										<span class="form-group">
-											<select class="form-control">
-												<option value="">Select an option</option>
-												<option value="Farmer">Farmer</option>
-												<option value="Fisherman">Fisherman</option>
-												<option value="Pastoralist">Pastoralist</option>
-												<option value="Artisanal Miner">Artisanal Miner</option>
-												<option value="Other">Other</option>
-											</select>
-										</span>
-									</div>
-									<div>
-										<p class="text-start mb-2">Farming Type</p>
-										<span class="form-group">
-											<select class="form-control">
-												<option value="">Select an option</option>
-												<option value="Crop Farming">Crop Farming</option>
-												<option value="Livestock Farming">Livestock Farming</option>
-												<option value="Mixed Farming">Mixed Farming</option>
-												<option value="Other">Other</option>
-											</select>
-										</span>
-									</div>
-									<div>
-										<p class="text-start mb-2">Type of Carbon Offset</p>
-										<div class="row">
-											<div class="col-6">
-												<div class="form-check">
-													<input type="checkbox" class="form-check-input" id="soilCarbon">
-													<label class="form-check-label" for="soilCarbon">Soil Carbon</label>
-												</div>
-											</div>
-											<div class="col-6">
-												<div class="form-check">
-													<input type="checkbox" class="form-check-input" id="forestCarbon">
-													<label class="form-check-label" for="forestCarbon">Forest Carbon</label>
-												</div>
-											</div>
-										</div>
+										<p class="text-start mb-2">Confirm Password</p>
+										<span class="form-group"><input type="password" class="form-control" placeholder="Confirm your password"></span>
 									</div>
 									<p class="text-muted small mt-3">Please note that every form submitted will be followed up by an onsite visit.</p>
 									<div class="row align-items-center g-0 m-0 mt-4">
 										<div class="col-6"><span class="text-muted">Already have an account? <a href="login.php">Sign in</a></span></div>
-										<div class="col-6 text-end"><button class="btn btn-dark ">Sign me up!</button></div>
+										<div class="col-6 text-end"><a href="dash.php" class="btn btn-dark">Sign me up!</a></div>
 									</div>
 								</div>
 							</div>
@@ -112,7 +70,6 @@
 					</div>
 				</div>
 			</div>
-		</div>
 	</section>
 	<!-- =======================
 Sign up -->

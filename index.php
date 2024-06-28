@@ -30,17 +30,20 @@ Main Banner -->
                             <div class="col-lg-8 col-xl-6 me-auto slider-content justify-content-center align-self-center align-items-start text-start">
                                 <h2 class="animate__animated animate__fadeInUp animate__delay-1s display-2 fw-bold text-white">Revolutionizing Climate Resilience in Africa</h2>
                                 <h3 class="animate__animated animate__fadeInUp animate__delay-2s text-white display-7 alt-font fst-italic mb-2 my-md-4">Empowering small-scale producers through technology and carbon markets</h3>
-                                <div class="animate__animated animate__fadeInUp animate__delay-3s mt-3 dealy-1500"><a href="#" class="btn btn-grad">Apply for Carbon Credits</a> <a href="about.php" class="btn btn-link text-white">Learn More</a></div>
+                                <div class="animate__animated animate__fadeInUp animate__delay-3s mt-3 dealy-1500"><a href="login.php" class="btn btn-grad">Apply for Carbon Credits</a> <a href="about.php" class="btn btn-link text-white">Learn More</a></div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- slide 2-->
-                <div class="h-100 bg-overlay-dark-2" style="background-image:url(assets/images/banner2.jpg); background-position: center top; background-size: cover;">
+                <div class="h-100 bg-overlay-dark-2" style="background-image:url(assets/images/new/bevis-main-2-crop.jpg); background-position: center bottom; background-size: cover;">
                     <div class="container h-100">
                         <div class="row d-flex h-100">
                             <div class="col-md-8 justify-content-center align-self-center align-items-start mx-auto">
                                 <div class="slider-content text-center">
+                                    <br>
+                                    <br>
+                                    <br>
                                     <h3 class="animate__animated animate__fadeInUp animate__delay-1s display-7 text-white alt-font fst-italic">Driving sustainable development through innovative climate solutions</h3>
                                     <h2 class="animate__animated animate__fadeInUp animate__delay-2s display-3 fw-bold text-white">Join us in the fight against climate change</h2>
                                     <div class="animate__animated animate__fadeInUp animate__delay-3s mt-3 dealy-1500"><a href="contact.php#contact" class="btn btn-grad">Partner with Us</a></div>
@@ -63,7 +66,7 @@ Main banner -->
             <div class="row">
                 <!-- left -->
                 <div class="col-md-10 col-lg-7 align-self-center ">
-                    <img class="rounded" src="assets/images/banner4.jpg" alt="">
+                    <img class="rounded" src="assets/images/new/bevis-6.jpg" alt="">
                 </div>
                 <!-- right -->
                 <div class="col-md-12 col-lg-5 align-self-center mt-4 mt-lg-0">
@@ -82,22 +85,29 @@ Main banner -->
 	About us -->
 
     <!-- =======================
-	Clients -->
-    <section class="p-0 pt-4">
+Partners -->
+    <section class="p-0 pt-2">
         <div class="container">
             <div class="row">
+                <div class="col-12 col-lg-8 mx-auto">
+                    <div class="title text-center">
+                        <span class="pre-title">Our Partners</span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
                 <div class="col-12">
-                    <div class="bg-light p-3 p-md-5 rounded text-center">
+                    <div class="bg-white p-3 p-md-5 rounded text-center">
                         <div class="tiny-slider">
                             <div class="tiny-slider-inner" data-arrow="false" data-dots="false" data-autoplay="3800" data-items-xl="6" data-items-md="4" data-items-sm="3" data-items-xs="2">
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c1.png" alt="" style="height: 100px;"></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c2.webp" alt="" style="height: 100px;"></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c3.png" alt="" style="height: 100px;"></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c4.jpg" alt="" style="height: 100px;"></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c5.png" alt="" style="height: 100px;"></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c6.png" alt="" style="height: 100px;"></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c1.png" alt="" style="height: 100px;"></div>
-                                <div class="item"><img class="w-75 mx-auto" src="assets/images/c2.webp" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/partners/lamu-p1.png" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/partners/gold-std-p2.png" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/partners/kenia-p3.png" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/partners/min-sports-p4.jpeg" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/partners/usiu-p5.png" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/partners/kemri-p6.png" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/partners/icr-p8.jpg" alt="" style="height: 100px;"></div>
+                                <div class="item"><img class="w-75 mx-auto" src="assets/images/partners/verra-p9.webp" alt="" style="height: 100px;"></div>
 
 
                             </div>
@@ -108,7 +118,7 @@ Main banner -->
         </div>
     </section>
     <!-- =======================
-	Clients -->
+Partners -->
 
 
     <!-- =======================
@@ -131,12 +141,12 @@ Main banner -->
                         <div class="portfolio-card isotope-item engineering">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/jiko.jpg" alt="Engineering Services">
+                                    <img src="assets/images/prod-1c.jpg" alt="Cooking Stove" style="height: 400px;">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="product.php" title="">Sustainable Jiko</a></h6>
-                                    <p>Ksh. 7,000</p>
+                                    <a class="full-screen" href="assets/images/prod-1c.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="product-1.php" title="">Cooking Stove</a></h6>
+                                    <p>Ksh. 3,000</p>
                                 </div>
                             </div>
                         </div>
@@ -144,12 +154,12 @@ Main banner -->
                         <div class="portfolio-card isotope-item procurement">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/jiko.jpg" alt="Procurement Services">
+                                    <img src="assets/images/prod-2a.jpg" alt="Wooden Stove" style="height: 400px;">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="product.php" title="">Product 2</a></h6>
-                                    <p>Ksh. 10,000</p>
+                                    <a class="full-screen" href="assets/images/prod-2a.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="product-2.php" title="">Wooden Stove</a></h6>
+                                    <p>Ksh. 3,300</p>
                                 </div>
                             </div>
                         </div>
@@ -157,12 +167,12 @@ Main banner -->
                         <div class="portfolio-card isotope-item construction">
                             <div class="portfolio-card-body">
                                 <div class="portfolio-card-header">
-                                    <img src="assets/images/jiko.jpg" alt="Construction Services">
+                                    <img src="assets/images/prod-3a.png" alt="Solar Lighting" style="height: 400px;">
                                 </div>
                                 <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/jiko.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="product.php" title="">Product 3</a></h6>
-                                    <p>Ksh. 8,000</p>
+                                    <a class="full-screen" href="assets/images/prod-3a.png" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
+                                    <h6 class="info-title"><a href="product-3.php" title="">Solar Lighting</a></h6>
+                                    <p>Ksh. 35,000</p>
                                 </div>
                             </div>
                         </div>
@@ -226,7 +236,7 @@ Our Products -->
             <div class="row justify-content-between align-items-center">
                 <!-- left -->
                 <div class="col-md-6">
-                    <img class="rounded" src="assets/images/blog/03.jpg" alt="">
+                    <img class="rounded" src="assets/images/new/bevis-2.jpg" alt="">
                 </div>
                 <!-- right -->
                 <div class="col-md-6 mt-4 mt-md-0">
@@ -238,7 +248,7 @@ Our Products -->
                         <li class="list-group-item"><i class="fa fa-check"></i> Commitment to local content development and community engagement</li>
                         <li class="list-group-item"><i class="fa fa-check"></i> Proven ability to deliver complex projects on time and budget</li>
                     </ul>
-                    <a href="#" class="btn btn-grad">Learn More About Us</a>
+                    <a href="about.php" class="btn btn-grad">Learn More About Us</a>
                 </div>
             </div>
         </div>
@@ -248,65 +258,60 @@ Our Products -->
 
 
     <!-- =======================
-Portfolio -->
-    <section class="portfolio portfolio-link pb-0">
-        <div class="container" id="projects">
-            <div class="row">
-                <div class="col-md-8 mx-auto text-center mb-3">
-                    <h2 class="h1">Featured Projects</h2>
-                    <p class="mb-0">Bevis Africa has successfully delivered numerous projects across the mining, power, and industrial sectors. Here are some of our featured projects showcasing our capabilities and expertise.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 p-0">
-                    <div class="portfolio-wrap grid items-3 items-padding" data-isotope='{ "itemSelector": ".isotope-item", "layoutMode": "masonry" }'>
-                        <!-- portfolio-card -->
-                        <div class="portfolio-card isotope-item mining">
-                            <div class="portfolio-card-body">
-                                <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/01.jpg" alt="Kansanshi Copper Mine">
-                                </div>
-                                <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/01.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Kansanshi Copper Mine</a></h6>
-                                    <p>Solwezi, Zambia</p>
+Testimonials -->
+    <section class="bg-light">
+        <div class="container">
+            <div class="tiny-slider dots-dark">
+                <div class="tiny-slider-inner" data-arrow="false" data-dots="true" data-autoplay="3800" data-items-xl="1">
+                    <!-- item 1 -->
+                    <div class="item mb-3">
+                        <div class="row align-items-center">
+                            <div class="col-md-10 col-lg-6 mx-md-auto align-self-center">
+                                <div class="text-start">
+                                    <h2>Transforming Carbon Markets with Bevis Africa</h2>
+                                    <p class="mb-0 lead">"Bevis Africa's innovative approach has revolutionized our carbon offset projects. Truly game-changing!"</p>
+                                    <div class="d-flex mt-3">
+                                        <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/new/bevis-13.jpg" alt="avatar" style="height: 100px;"></h6>
+                                        <div class="align-self-center">
+                                            <h5 class="mb-2">John Njoroge</h5>
+                                            <p>CEO, GreenFuture</p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <!-- portfolio-card -->
-                        <div class="portfolio-card isotope-item power">
-                            <div class="portfolio-card-body">
-                                <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/02.jpg" alt="Medupi Power Station">
-                                </div>
-                                <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/02.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Medupi Power Station</a></h6>
-                                    <p>Lephalale, South Africa</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- portfolio-card -->
-                        <div class="portfolio-card isotope-item industrial">
-                            <div class="portfolio-card-body">
-                                <div class="portfolio-card-header">
-                                    <img src="assets/images/portfolio/03.jpg" alt="Saldanha Steel">
-                                </div>
-                                <div class="portfolio-card-footer">
-                                    <a class="full-screen" href="assets/images/portfolio/03.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="#" title="">Saldanha Steel</a></h6>
-                                    <p>Saldanha Bay, South Africa</p>
-                                </div>
+                            <div class="col-md-10 col-lg-6 mx-md-auto align-self-center mt-4 mt-lg-0 position-relative">
+                                <img class="rounded" src="assets/images/new/bevis-13.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <!-- portfolio wrap -->
+                    <!-- item 2 -->
+                    <div class="item mb-3">
+                        <div class="row">
+                            <div class="col-md-10 col-lg-6 mx-md-auto align-self-center">
+                                <div class="text-start">
+                                    <h2>Empowering Communities with Carbon Credits</h2>
+                                    <p class="mb-0 lead">"Thanks to Bevis Africa, we've empowered local farmers and fishermen to contribute to climate action and earn sustainable incomes."</p>
+                                    <div class="d-flex mt-3">
+                                        <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/new/bevis-12.jpg" alt="avatar" style="height: 100px;"></h6>
+                                        <div class="align-self-center">
+                                            <h5 class="mb-2">Jane Kilonzo</h5>
+                                            <p>Founder, EcoWave</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-10 col-lg-6 mx-md-auto align-self-center mt-4 mt-lg-0 position-relative">
+                                <img class="rounded" src="assets/images/new/bevis-12.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- =======================
-Portfolio -->
+Testimonials -->
+
 
 
     <!-- Footer, CTA -->

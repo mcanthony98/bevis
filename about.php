@@ -37,13 +37,13 @@ Banner innerpage -->
 	<!-- =======================
 About us -->
 	<section>
-		<div class="container h-100">
+		<div class="container h-50">
 			<div class="row">
 				<div class="col-md-12 col-lg-6 align-self-center ">
 					<div class="title text-start">
 						<span class="pre-title">We are Bevis Africa!</span>
 						<h2>We are a <span class="text-primary">Climate Fintech Company</span> focused on accelerating regenerative finance and reducing carbon emissions.</h2>
-						<p class="mb-0">Our mission is to revolutionize climate resilience by leveraging technology to empower small-scale farmers, fishermen, artisanal miners, and pastoralists in greenhouse gas emission reduction across Africa.</p>
+						<p class="mb-0">Our mission is to provide value-driven investments through carbon financing. We identify small-scale producers and assess their potential for greenhouse gas emission reduction and carbon sequestration.</p>
 						<div class="list-group-inline list-group-number list-unstyled mt-4">
 							<a href="#" class="list-group-item list-group-item-action"><span>01</span> Regenerative Agriculture</a>
 							<a href="#" class="list-group-item list-group-item-action"><span>02</span> Blue Carbon Ecosystems</a>
@@ -53,11 +53,10 @@ About us -->
 					</div>
 				</div>
 				<div class="col-md-10 col-lg-6 mx-md-auto align-self-center position-relative">
-					<img class="rounded" src="assets/images/blog/02.jpg" alt="">
+					<img class="rounded" src="assets/images/new/bevis-main.jpg" alt="">
 				</div>
 			</div>
 			<!-- row end -->
-
 			<div class="row mt-4">
 				<!-- feature 1 -->
 				<div class="col-md-4">
@@ -90,6 +89,7 @@ About us -->
 	<!-- =======================
 About us -->
 
+
 	<!-- =======================
 About us -->
 	<section>
@@ -104,7 +104,7 @@ About us -->
 				<div class="col-md-6 align-self-center text-center text-sm-center text-md-start">
 					<p class="pe-0 pe-lg-5">Bevis Africa is dedicated to expanding the reach and impact of climate action through the voluntary carbon market. We onboard small-scale farmers, fishermen, artisanal miners, and pastoralists, providing them with the tools and resources needed to reduce greenhouse gas emissions and enhance their resilience to climate change.</p>
 					<p class="pe-0 pe-lg-5">Our innovative technology and comprehensive strategy are accelerating the funding of essential ecosystem restoration efforts, promoting sustainable development, and contributing to the overall mitigation of climate change.</p>
-					<a class="btn btn-outline-light" href="index.php#projects">Explore our projects!</a>
+					<a class="btn btn-outline-light" href="solutions.php">Explore our Solutions!</a>
 				</div>
 			</div>
 			<!-- row end -->
@@ -145,24 +145,70 @@ About us -->
 About us -->
 
 
-	<div class="container divider mb-4 mt-5"> </div>
+	<!-- =======================
+Voluntary Carbon Market -->
+	<section>
+		<div class="container h-100">
+			<div class="row">
+				<div class="col-md-12">
+					<h2>Voluntary Carbon Market</h2>
+					<ul>
+						<li>In the voluntary Carbon Market, carbon credits represent the reduction of one tonne of carbon dioxide or an equivalent of other greenhouse gases.</li>
+						<li>These credits are sold in carbon trading projects, leveraging community environmental assets to empower local communities.</li>
+						<li>Carbon credits function as digital certificates or fungible commodities.</li>
+						<li>Corporations and individuals purchase carbon credits to offset their carbon footprints, demonstrating their commitment to environmental responsibility.</li>
+						<li>Purchasing carbon credits effectively removes or offsets emissions, contributing to global climate goals.</li>
+						<li>Each carbon project is managed by a "Proponent," either a legal entity or individual responsible for its operation.</li>
+						<li>Carbon projects not only mitigate climate impacts but also stimulate economic and environmental benefits, promoting sustainable development and societal growth.</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+Voluntary Carbon Market -->
+	<!-- =======================
+Company Commitment -->
+	<section>
+		<div class="container h-100">
+			<div class="row">
+				<div class="col-md-12">
+					<h2>Company Commitment</h2>
+					<p>We are dedicated to providing sustainable solutions that address climate challenges while meeting the needs of educational institutions in Kenya. Our firewood school cooking solution represents our commitment to environmental stewardship and social responsibility.</p>
+					<p>Join us in making a difference with sustainable cooking solutions for a healthier planet and brighter future.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+Company Commitment -->
+
+
+
 	<!-- =======================
 Partners -->
-	<section class="p-0 pt-4">
+	<section class="p-0 pt-2">
 		<div class="container">
 			<div class="row">
+				<div class="col-12 col-lg-8 mx-auto">
+					<div class="title text-center">
+						<span class="pre-title">Our Partners</span>
+					</div>
+				</div>
+			</div>
+			<div class="row">
 				<div class="col-12">
-					<div class="bg-light p-3 p-md-5 rounded text-center">
+					<div class="bg-white p-3 p-md-5 rounded text-center">
 						<div class="tiny-slider">
 							<div class="tiny-slider-inner" data-arrow="false" data-dots="false" data-autoplay="3800" data-items-xl="6" data-items-md="4" data-items-sm="3" data-items-xs="2">
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c1.png" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c2.webp" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c3.png" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c4.jpg" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c5.png" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c6.png" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c1.png" alt="" style="height: 100px;"></div>
-								<div class="item"><img class="w-75 mx-auto" src="assets/images/c2.webp" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/lamu-p1.png" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/gold-std-p2.png" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/kenia-p3.png" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/min-sports-p4.jpeg" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/usiu-p5.png" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/kemri-p6.png" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/icr-p8.jpg" alt="" style="height: 100px;"></div>
+								<div class="item"><img class="w-75 mx-auto" src="assets/images/partners/verra-p9.webp" alt="" style="height: 100px;"></div>
 
 
 							</div>
@@ -174,6 +220,9 @@ Partners -->
 	</section>
 	<!-- =======================
 Partners -->
+
+
+	<div class="container divider mb-4 mt-5"> </div>
 
 
 	<!-- =======================

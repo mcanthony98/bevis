@@ -40,6 +40,15 @@ header Start-->
 
 				<!-- navbar top Right-->
 				<div class="d-flex align-items-center">
+					<!-- Top Account -->
+					<div class="dropdown">
+						<a class="dropdown-toggle" href="#" role="button" id="dropdownAccount" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="ti-user me-2"></i>My Account </a>
+						<div class="dropdown-menu mt-2 shadow" aria-labelledby="dropdownAccount">
+							<a class="dropdown-item" href="sign-in.php">Log In</a>
+							<a class="dropdown-item" href="register.php">Register</a>
+							<a class="dropdown-item" href="dash.php">Profile</a>
+						</div>
+					</div>
 					<!-- top link -->
 					<ul class="nav">
 						<li class="nav-item">
@@ -49,13 +58,10 @@ header Start-->
 					<!-- top social -->
 					<ul class="social-icons">
 						<li class="social-icons-item social-facebook m-0">
-							<a class="social-icons-link w-auto px-2" href="#"><i class="fab fa-facebook-f"></i></a>
-						</li>
-						<li class="social-icons-item social-instagram m-0">
-							<a class="social-icons-link w-auto px-2" href="#"><i class="fab fa-instagram"></i></a>
+							<a class="social-icons-link w-auto px-2" href="https://www.facebook.com/profile.php?id=61551809722864" target="_blank"><i class="fab fa-facebook-f"></i></a>
 						</li>
 						<li class="social-icons-item social-twitter m-0">
-							<a class="social-icons-link w-auto ps-2" href="#"><i class="fab fa-twitter"></i></a>
+							<a class="social-icons-link w-auto ps-2" href="https://twitter.com/BevisAfrica" target="_blank"><i class="fab fa-twitter"></i></a>
 						</li>
 					</ul>
 				</div>
@@ -94,21 +100,18 @@ header Start-->
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="index.php#products" id="docMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
 						<ul class="dropdown-menu" aria-labelledby="docMenu">
-							<li> <a class="dropdown-item" href="product.php">Product 1</a> </li>
-							<li> <a class="dropdown-item" href="product.php">Product 2</a> </li>
-							<li> <a class="dropdown-item" href="product.php">Product 3</a> </li>
+
+							<li> <a class="dropdown-item" href="product-1.php">Cooking Stove</a> </li>
+							<li> <a class="dropdown-item" href="product-2.php">Wood Stove</a> </li>
+							<li> <a class="dropdown-item" href="product-3.php">Solar Lighting</a> </li>
+							<li> <a class="dropdown-item" href="product-4.php">School Cooking Solution</a> </li>
 
 						</ul>
 					</li>
 
 					<!-- Menu item 4 -->
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="services.php" id="docMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Solutions</a>
-						<ul class="dropdown-menu" aria-labelledby="docMenu">
-							<li> <a class="dropdown-item" href="services.php">Marketplace</a> </li>
-							<li> <a class="dropdown-item" href="services.php">DMRV</a> </li>
-
-						</ul>
+					<li class="nav-item">
+						<a class="nav-link" href="solutions.php" id="demosMenu" aria-haspopup="true" aria-expanded="false">Custom Solutions</a>
 					</li>
 
 					<!-- Menu item 5 -->
