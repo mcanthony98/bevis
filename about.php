@@ -37,7 +37,7 @@ Banner innerpage -->
 	<!-- =======================
 About us -->
 	<section>
-		<div class="container h-100">
+		<div class="container h-50">
 			<div class="row">
 				<div class="col-md-12 col-lg-6 align-self-center ">
 					<div class="title text-start">
@@ -88,6 +88,63 @@ About us -->
 	</section>
 	<!-- =======================
 About us -->
+
+
+	<!-- =======================
+About us -->
+	<section>
+		<div class="container h-100">
+			<div class="row">
+				<div class="col-md-6 align-self-center">
+					<div class="text-center text-sm-center text-md-end mb-4">
+						<h2 class="text-grad display-1 fw-bold mb-0">5+ Years</h2>
+						<span>In driving climate action and empowering small-scale producers across Africa</span>
+					</div>
+				</div>
+				<div class="col-md-6 align-self-center text-center text-sm-center text-md-start">
+					<p class="pe-0 pe-lg-5">Bevis Africa is dedicated to expanding the reach and impact of climate action through the voluntary carbon market. We onboard small-scale farmers, fishermen, artisanal miners, and pastoralists, providing them with the tools and resources needed to reduce greenhouse gas emissions and enhance their resilience to climate change.</p>
+					<p class="pe-0 pe-lg-5">Our innovative technology and comprehensive strategy are accelerating the funding of essential ecosystem restoration efforts, promoting sustainable development, and contributing to the overall mitigation of climate change.</p>
+					<a class="btn btn-outline-light" href="index.php#projects">Explore our projects!</a>
+				</div>
+			</div>
+			<!-- row end -->
+			<div class="row mt-7">
+				<!-- process item-->
+				<div class="col-md-3 mb-6">
+					<div class="process">
+						<h3 class="process-title">01. Identify</h3>
+						<p class="process-content">We identify small-scale producers and assess their potential for greenhouse gas emission reduction and carbon sequestration.</p>
+					</div>
+				</div>
+				<!-- process item-->
+				<div class="col-md-3 mb-6">
+					<div class="process">
+						<h3 class="process-title">02. Develop</h3>
+						<p class="process-content">We develop carbon offset projects tailored to the specific needs and challenges of each community, ensuring maximum impact and sustainability.</p>
+					</div>
+				</div>
+				<!-- process item-->
+				<div class="col-md-3 mb-6">
+					<div class="process">
+						<h3 class="process-title">03.Implement</h3>
+						<p class="process-content">We implement the projects on the ground, providing training, support, and resources to ensure their success and long-term viability.</p>
+					</div>
+				</div>
+				<!-- process item-->
+				<div class="col-md-3 mb-6">
+					<div class="process">
+						<h3 class="process-title">04. Monitor</h3>
+						<p class="process-content">We continuously monitor and evaluate the projects to ensure their effectiveness, transparency, and adherence to international standards.</p>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+About us -->
+
+
 	<!-- =======================
 Voluntary Carbon Market -->
 	<section>
@@ -125,6 +182,7 @@ Company Commitment -->
 	</section>
 	<!-- =======================
 Company Commitment -->
+
 
 
 	<!-- =======================
