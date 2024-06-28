@@ -57,7 +57,6 @@ About us -->
 				</div>
 			</div>
 			<!-- row end -->
-
 			<div class="row mt-4">
 				<!-- feature 1 -->
 				<div class="col-md-4">
@@ -89,60 +88,43 @@ About us -->
 	</section>
 	<!-- =======================
 About us -->
-
 	<!-- =======================
-About us -->
+Voluntary Carbon Market -->
 	<section>
 		<div class="container h-100">
 			<div class="row">
-				<div class="col-md-6 align-self-center">
-					<div class="text-center text-sm-center text-md-end mb-4">
-						<h2 class="text-grad display-1 fw-bold mb-0">5+ Years</h2>
-						<span>In driving climate action and empowering small-scale producers across Africa</span>
-					</div>
+				<div class="col-md-12">
+					<h2>Voluntary Carbon Market</h2>
+					<ul>
+						<li>In the voluntary Carbon Market, carbon credits represent the reduction of one tonne of carbon dioxide or an equivalent of other greenhouse gases.</li>
+						<li>These credits are sold in carbon trading projects, leveraging community environmental assets to empower local communities.</li>
+						<li>Carbon credits function as digital certificates or fungible commodities.</li>
+						<li>Corporations and individuals purchase carbon credits to offset their carbon footprints, demonstrating their commitment to environmental responsibility.</li>
+						<li>Purchasing carbon credits effectively removes or offsets emissions, contributing to global climate goals.</li>
+						<li>Each carbon project is managed by a "Proponent," either a legal entity or individual responsible for its operation.</li>
+						<li>Carbon projects not only mitigate climate impacts but also stimulate economic and environmental benefits, promoting sustainable development and societal growth.</li>
+					</ul>
 				</div>
-				<div class="col-md-6 align-self-center text-center text-sm-center text-md-start">
-					<p class="pe-0 pe-lg-5">Bevis Africa is dedicated to expanding the reach and impact of climate action through the voluntary carbon market. We onboard small-scale farmers, fishermen, artisanal miners, and pastoralists, providing them with the tools and resources needed to reduce greenhouse gas emissions and enhance their resilience to climate change.</p>
-					<p class="pe-0 pe-lg-5">Our innovative technology and comprehensive strategy are accelerating the funding of essential ecosystem restoration efforts, promoting sustainable development, and contributing to the overall mitigation of climate change.</p>
-					<a class="btn btn-outline-light" href="index.php#projects">Explore our projects!</a>
-				</div>
-			</div>
-			<!-- row end -->
-			<div class="row mt-7">
-				<!-- process item-->
-				<div class="col-md-3 mb-6">
-					<div class="process">
-						<h3 class="process-title">01. Identify</h3>
-						<p class="process-content">We identify small-scale producers and assess their potential for greenhouse gas emission reduction and carbon sequestration.</p>
-					</div>
-				</div>
-				<!-- process item-->
-				<div class="col-md-3 mb-6">
-					<div class="process">
-						<h3 class="process-title">02. Develop</h3>
-						<p class="process-content">We develop carbon offset projects tailored to the specific needs and challenges of each community, ensuring maximum impact and sustainability.</p>
-					</div>
-				</div>
-				<!-- process item-->
-				<div class="col-md-3 mb-6">
-					<div class="process">
-						<h3 class="process-title">03.Implement</h3>
-						<p class="process-content">We implement the projects on the ground, providing training, support, and resources to ensure their success and long-term viability.</p>
-					</div>
-				</div>
-				<!-- process item-->
-				<div class="col-md-3 mb-6">
-					<div class="process">
-						<h3 class="process-title">04. Monitor</h3>
-						<p class="process-content">We continuously monitor and evaluate the projects to ensure their effectiveness, transparency, and adherence to international standards.</p>
-					</div>
-				</div>
-
 			</div>
 		</div>
 	</section>
 	<!-- =======================
-About us -->
+Voluntary Carbon Market -->
+	<!-- =======================
+Company Commitment -->
+	<section>
+		<div class="container h-100">
+			<div class="row">
+				<div class="col-md-12">
+					<h2>Company Commitment</h2>
+					<p>We are dedicated to providing sustainable solutions that address climate challenges while meeting the needs of educational institutions in Kenya. Our firewood school cooking solution represents our commitment to environmental stewardship and social responsibility.</p>
+					<p>Join us in making a difference with sustainable cooking solutions for a healthier planet and brighter future.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- =======================
+Company Commitment -->
 
 
 	<!-- =======================
