@@ -30,7 +30,7 @@ Main Banner -->
                             <div class="col-lg-8 col-xl-6 me-auto slider-content justify-content-center align-self-center align-items-start text-start">
                                 <h2 class="animate__animated animate__fadeInUp animate__delay-1s display-2 fw-bold text-white">Revolutionizing Climate Resilience in Africa</h2>
                                 <h3 class="animate__animated animate__fadeInUp animate__delay-2s text-white display-7 alt-font fst-italic mb-2 my-md-4">Empowering small-scale producers through technology and carbon markets</h3>
-                                <div class="animate__animated animate__fadeInUp animate__delay-3s mt-3 dealy-1500"><a href="#" class="btn btn-grad">Apply for Carbon Credits</a> <a href="about.php" class="btn btn-link text-white">Learn More</a></div>
+                                <div class="animate__animated animate__fadeInUp animate__delay-3s mt-3 dealy-1500"><a href="login.php" class="btn btn-grad">Apply for Carbon Credits</a> <a href="about.php" class="btn btn-link text-white">Learn More</a></div>
                             </div>
                         </div>
                     </div>
@@ -145,7 +145,7 @@ Partners -->
                                 </div>
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/prod-1c.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="product.php" title="">Cooking Stove</a></h6>
+                                    <h6 class="info-title"><a href="product-1.php" title="">Cooking Stove</a></h6>
                                     <p>Ksh. 3,000</p>
                                 </div>
                             </div>
@@ -158,7 +158,7 @@ Partners -->
                                 </div>
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/prod-2a.jpg" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="product.php" title="">Wooden Stove</a></h6>
+                                    <h6 class="info-title"><a href="product-2.php" title="">Wooden Stove</a></h6>
                                     <p>Ksh. 3,300</p>
                                 </div>
                             </div>
@@ -171,7 +171,7 @@ Partners -->
                                 </div>
                                 <div class="portfolio-card-footer">
                                     <a class="full-screen" href="assets/images/prod-3a.png" data-glightbox="" data-gallery="portfolio"><i class="ti-fullscreen"></i></a>
-                                    <h6 class="info-title"><a href="product.php" title="">Solar Lighting</a></h6>
+                                    <h6 class="info-title"><a href="product-3.php" title="">Solar Lighting</a></h6>
                                     <p>Ksh. 35,000</p>
                                 </div>
                             </div>
@@ -248,7 +248,7 @@ Our Products -->
                         <li class="list-group-item"><i class="fa fa-check"></i> Commitment to local content development and community engagement</li>
                         <li class="list-group-item"><i class="fa fa-check"></i> Proven ability to deliver complex projects on time and budget</li>
                     </ul>
-                    <a href="#" class="btn btn-grad">Learn More About Us</a>
+                    <a href="about.php" class="btn btn-grad">Learn More About Us</a>
                 </div>
             </div>
         </div>

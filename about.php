@@ -104,7 +104,7 @@ About us -->
 				<div class="col-md-6 align-self-center text-center text-sm-center text-md-start">
 					<p class="pe-0 pe-lg-5">Bevis Africa is dedicated to expanding the reach and impact of climate action through the voluntary carbon market. We onboard small-scale farmers, fishermen, artisanal miners, and pastoralists, providing them with the tools and resources needed to reduce greenhouse gas emissions and enhance their resilience to climate change.</p>
 					<p class="pe-0 pe-lg-5">Our innovative technology and comprehensive strategy are accelerating the funding of essential ecosystem restoration efforts, promoting sustainable development, and contributing to the overall mitigation of climate change.</p>
-					<a class="btn btn-outline-light" href="index.php#projects">Explore our projects!</a>
+					<a class="btn btn-outline-light" href="solutions.php">Explore our Solutions!</a>
 				</div>
 			</div>
 			<!-- row end -->

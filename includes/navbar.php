@@ -58,13 +58,10 @@ header Start-->
 					<!-- top social -->
 					<ul class="social-icons">
 						<li class="social-icons-item social-facebook m-0">
-							<a class="social-icons-link w-auto px-2" href="#"><i class="fab fa-facebook-f"></i></a>
-						</li>
-						<li class="social-icons-item social-instagram m-0">
-							<a class="social-icons-link w-auto px-2" href="#"><i class="fab fa-instagram"></i></a>
+							<a class="social-icons-link w-auto px-2" href="https://www.facebook.com/profile.php?id=61551809722864" target="_blank"><i class="fab fa-facebook-f"></i></a>
 						</li>
 						<li class="social-icons-item social-twitter m-0">
-							<a class="social-icons-link w-auto ps-2" href="#"><i class="fab fa-twitter"></i></a>
+							<a class="social-icons-link w-auto ps-2" href="https://twitter.com/BevisAfrica" target="_blank"><i class="fab fa-twitter"></i></a>
 						</li>
 					</ul>
 				</div>
@@ -104,9 +101,10 @@ header Start-->
 						<a class="nav-link dropdown-toggle" href="index.php#products" id="docMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
 						<ul class="dropdown-menu" aria-labelledby="docMenu">
 
-							<li> <a class="dropdown-item" href="product.php">Cooking Stove</a> </li>
-							<li> <a class="dropdown-item" href="product.php">Wood Stove</a> </li>
-							<li> <a class="dropdown-item" href="product.php">Solar Lighting</a> </li>
+							<li> <a class="dropdown-item" href="product-1.php">Cooking Stove</a> </li>
+							<li> <a class="dropdown-item" href="product-2.php">Wood Stove</a> </li>
+							<li> <a class="dropdown-item" href="product-3.php">Solar Lighting</a> </li>
+							<li> <a class="dropdown-item" href="product-4.php">School Cooking Solution</a> </li>
 
 						</ul>
 					</li>

@@ -42,7 +42,7 @@ contact -->
 	<section class="contact-page">
 		<div class="container">
 			<div class="row">
-				<div class="col-12 col-lg-8 mx-auto">
+				<div class="col-12 col-lg-8 mx-auto" id="contact">
 					<div class="title text-center">
 						<h2>How can we help you?</h2>
 						<p>Our team at Bevis Africa is dedicated to assisting you with any questions or concerns you may have about our services, projects, or the voluntary carbon market.</p>
