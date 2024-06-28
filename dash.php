@@ -23,13 +23,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="profile.php">Profile</a>
+                        <a class="nav-link" href="edit-profile.php">Edit Profile</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#applications">My Applications</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="apply-now.php">Apply Now</a>
+                        <a class="nav-link" href="#apply">Apply Now</a>
                     </li>
                 </ul>
             </div>
@@ -90,7 +90,7 @@
     <!-- Apply Now -->
     <section>
         <div class="container">
-            <div class="row">
+            <div class="row" id="apply">
                 <div class="col-12 col-md-8 mx-auto">
                     <h3 class="text-center mb-4">Apply Now</h3>
                     <div class="form mt-4">
