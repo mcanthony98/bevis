@@ -40,6 +40,15 @@ header Start-->
 
 				<!-- navbar top Right-->
 				<div class="d-flex align-items-center">
+					<!-- Top Account -->
+					<div class="dropdown">
+						<a class="dropdown-toggle" href="#" role="button" id="dropdownAccount" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="ti-user me-2"></i>My Account </a>
+						<div class="dropdown-menu mt-2 shadow" aria-labelledby="dropdownAccount">
+							<a class="dropdown-item" href="sign-in.php">Log In</a>
+							<a class="dropdown-item" href="register.php">Register</a>
+							<a class="dropdown-item" href="dash.php">Profile</a>
+						</div>
+					</div>
 					<!-- top link -->
 					<ul class="nav">
 						<li class="nav-item">
