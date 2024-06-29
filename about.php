@@ -7,6 +7,12 @@
 	<!-- Head Content -->
 	<?php include 'includes/head-content.php'; ?>
 
+	<style>
+		.team .row.justify-content-center {
+			display: flex;
+			justify-content: center;
+		}
+	</style>
 
 </head>
 
@@ -242,12 +248,11 @@ Team -->
 				<div class="col-sm-6 col-md-3">
 					<div class="team-item text-center">
 						<div class="team-avatar">
-							<img src="assets/images/team/01.jpg" alt="">
+							<img src="assets/images/profile-avatar.svg" alt="">
 						</div>
 						<div class="team-desc">
-							<h5 class="team-name">John Doe</h5>
-							<span class="team-position">CEO and Founder</span>
-							<p>An experienced entrepreneur with a passion for driving sustainable development and climate action across Africa.</p>
+							<h5 class="team-name">Victor Mburu</h5>
+							<span class="team-position">CEO</span>
 						</div>
 					</div>
 				</div>
@@ -255,12 +260,11 @@ Team -->
 				<div class="col-sm-6 col-md-3">
 					<div class="team-item text-center">
 						<div class="team-avatar">
-							<img src="assets/images/team/02.jpg" alt="">
+							<img src="assets/images/profile-avatar.svg" alt="">
 						</div>
 						<div class="team-desc">
-							<h5 class="team-name">Jane Smith</h5>
-							<span class="team-position">CTO</span>
-							<p>A seasoned technology expert with a strong background in developing innovative solutions for climate change mitigation.</p>
+							<h5 class="team-name">Ruth Gitau</h5>
+							<span class="team-position">COO</span>
 						</div>
 					</div>
 				</div>
@@ -268,12 +272,11 @@ Team -->
 				<div class="col-sm-6 col-md-3">
 					<div class="team-item text-center">
 						<div class="team-avatar">
-							<img src="assets/images/team/03.jpg" alt="">
+							<img src="assets/images/profile-avatar.svg" alt="">
 						</div>
 						<div class="team-desc">
-							<h5 class="team-name">Mark Johnson</h5>
-							<span class="team-position">Director of Operations</span>
-							<p>An accomplished professional with extensive experience in project management and community engagement.</p>
+							<h5 class="team-name">Benard Gikaru</h5>
+							<span class="team-position">CFO</span>
 						</div>
 					</div>
 				</div>
@@ -281,17 +284,51 @@ Team -->
 				<div class="col-sm-6 col-md-3">
 					<div class="team-item text-center">
 						<div class="team-avatar">
-							<img src="assets/images/team/04.jpg" alt="">
+							<img src="assets/images/profile-avatar.svg" alt="">
 						</div>
 						<div class="team-desc">
-							<h5 class="team-name">Sarah Thompson</h5>
-							<span class="team-position">Director of Marketing</span>
-							<p>A creative strategist with a knack for developing impactful campaigns that drive awareness and engagement.</p>
-							<ul class="social-icons si-colored-on-hover">
-								<li class="social-icons-item social-facebook"><a class="social-icons-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
-								<li class="social-icons-item social-instagram"><a class="social-icons-link" href="#"><i class="fab fa-instagram"></i></a></li>
-								<li class="social-icons-item social-twitter"><a class="social-icons-link" href="#"><i class="fab fa-twitter"></i></a></li>
-							</ul>
+							<h5 class="team-name">Davie Avarenya</h5>
+							<span class="team-position">CSO</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Center Bottom 3 Items -->
+				<div class="row justify-content-center">
+					<!-- Team item -->
+					<div class="col-sm-6 col-md-3">
+						<div class="team-item text-center">
+							<div class="team-avatar">
+								<img src="assets/images/profile-avatar.svg" alt="">
+							</div>
+							<div class="team-desc">
+								<h5 class="team-name">Nicodemus Mwangi</h5>
+								<span class="team-position">Blockchain Developer</span>
+							</div>
+						</div>
+					</div>
+					<!-- Team item -->
+					<div class="col-sm-6 col-md-3">
+						<div class="team-item text-center">
+							<div class="team-avatar">
+								<img src="assets/images/profile-avatar.svg" alt="">
+							</div>
+							<div class="team-desc">
+								<h5 class="team-name">Mercy Kinya</h5>
+								<span class="team-position">Agribusiness Manager</span>
+							</div>
+						</div>
+					</div>
+					<!-- Team item -->
+					<div class="col-sm-6 col-md-3">
+						<div class="team-item text-center">
+							<div class="team-avatar">
+								<img src="assets/images/profile-avatar.svg" alt="">
+							</div>
+							<div class="team-desc">
+								<h5 class="team-name">Joseph Kamau</h5>
+								<span class="team-position">Marine Engineer</span>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -307,6 +344,7 @@ Team -->
 	</section>
 	<!-- =======================
 Team -->
+
 
 
 
