@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Product | Bevis Africa</title>
+    <title>Wood Stove | Bevis Africa</title>
     <!-- Head Content -->
     <?php include 'includes/head-content.php'; ?>
     <style>
