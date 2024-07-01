@@ -104,6 +104,7 @@ header Start-->
 							<li> <a class="dropdown-item" href="product-1.php">Cooking Stove</a> </li>
 							<li> <a class="dropdown-item" href="product-2.php">Wood Stove</a> </li>
 							<li> <a class="dropdown-item" href="product-3.php">Solar Lighting</a> </li>
+							<li> <a class="dropdown-item" href="product-5.php">African Sisal Shopping Bag</a> </li>
 							<li> <a class="dropdown-item" href="product-4.php">School Cooking Solution</a> </li>
 
 						</ul>
