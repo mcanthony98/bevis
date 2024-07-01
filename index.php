@@ -72,8 +72,10 @@ Main banner -->
                 <div class="col-md-12 col-lg-5 align-self-center mt-4 mt-lg-0">
                     <div class="title text-start pb-0">
                         <span class="pre-title">About Bevis Africa</span>
-                        <h2>Powering Africa's Growth for Over <span class="text-primary">40 Years</span></h2>
-                        <p>Bevis Africa is a leading engineering, procurement, construction and maintenance company serving the mining, power, and industrial sectors across Africa. With a track record of delivering complex projects in remote locations, we are committed to safety, quality, and sustainability.</p>
+                        <h2>Powering Africa's Growth through <span class="text-primary">Community Partnerships</span></h2>
+                        <p>Bevis Africa is a Climate Fintech Company with the goal of expediting regenerative finance and significantly reducing carbon emissions on a large scale.</p>
+                        <h4>Mission</h4>
+                        <p>Revolutionizing climate resillience by leveraging technology to empower small-scale producers in GHG reduction in Africa</p>
                         <a href="about.php" class="btn btn-outline-primary">Read more</a>
                     </div>
                 </div>
@@ -196,7 +198,7 @@ Our Products -->
                     <div class="title text-center">
                         <span class="pre-title">Why Choose Bevis Africa?</span>
                         <h2>Your Trusted Partner for Africa's Growth</h2>
-                        <p class="mb-0">With over four decades of experience, Bevis Africa has the expertise, resources and commitment to deliver world-class projects safely and efficiently across the continent.</p>
+                        <p class="mb-0">Choose Bevis Africa for pioneering solutions that bridge gaps in carbon project development, empowering communities across Africa with sustainable tools, renewable energy solutions, and measurable impact in combating climate change.</p>
                     </div>
                 </div>
             </div>
@@ -205,21 +207,21 @@ Our Products -->
                     <div class="feature-box f-style-5 h-100 icon-grad">
                         <div class="feature-box-icon"><i class="ti-panel"></i></div>
                         <h3 class="feature-box-title">Full Suite of Services</h3>
-                        <p class="feature-box-desc">From feasibility studies to engineering design, procurement, construction, commissioning and maintenance, we offer end-to-end solutions for complex projects.</p>
+                        <p class="feature-box-desc">We are creating an integrated system that bridges the gaps in carbon project development, we aim to empower local communities in various ways, including provision of aquaculture equipment, production tools, subsidized solar lighting devices for renewable energy transition, and subsidized solar-powered irrigation motors to enhance farming.</p>
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
                     <div class="feature-box f-style-5 h-100 icon-grad">
                         <div class="feature-box-icon"><i class="ti-palette"></i></div>
                         <h3 class="feature-box-title">Proven Track Record</h3>
-                        <p class="feature-box-desc">We have successfully delivered landmark projects for major clients across various sectors, demonstrating our capabilities in executing large-scale projects.</p>
+                        <p class="feature-box-desc">We measure impact by the amount of carbon emissions removed from the atmosphere through our curated projects focused on carbon sequestration.</p>
                     </div>
                 </div>
                 <div class="col-md-4 mt-4">
                     <div class="feature-box f-style-5 h-100 icon-grad">
                         <div class="feature-box-icon"><i class="ti-gift"></i></div>
                         <h3 class="feature-box-title">Commitment to Africa</h3>
-                        <p class="feature-box-desc">As an African company, we are dedicated to the development of local skills, suppliers and communities in every country we operate, leaving a positive legacy.</p>
+                        <p class="feature-box-desc">Our initiatives aim to foster sustainable development and promote renewable energy among communities most affected by climate change, thereby promoting social equity, creating new jobs, and reducing poverty.</p>
                     </div>
                 </div>
             </div>
@@ -240,13 +242,11 @@ Our Products -->
                 </div>
                 <!-- right -->
                 <div class="col-md-6 mt-4 mt-md-0">
-                    <h2 class="h1">Your Partner for Africa's Infrastructure Development</h2>
-                    <p>With a strong presence across the continent, Bevis Africa has the local knowledge, relationships and resources to navigate the unique challenges of executing projects in Africa.</p>
+                    <h2 class="h2">Your Partner in the creation of integrity and verifiable nature-based carbon credits.</h2>
                     <ul class="list-group list-group-borderless list-group-icon-primary-bg mb-4">
-                        <li class="list-group-item"><i class="fa fa-check"></i> Extensive experience in remote locations and harsh environments</li>
-                        <li class="list-group-item"><i class="fa fa-check"></i> Strong health, safety and environmental practices</li>
-                        <li class="list-group-item"><i class="fa fa-check"></i> Commitment to local content development and community engagement</li>
-                        <li class="list-group-item"><i class="fa fa-check"></i> Proven ability to deliver complex projects on time and budget</li>
+                        <li class="list-group-item"><i class="fa fa-check"></i> Providing verifiable carbon credits with impact results. </li>
+                        <li class="list-group-item"><i class="fa fa-check"></i> Ensuring unparalleled transparency in both projects and credits. </li>
+                        <li class="list-group-item"><i class="fa fa-check"></i> Developing tools for streamlined registration, management, transparent monitoring, and efficient issuance of carbon credits across Africa.</li>
                     </ul>
                     <a href="about.php" class="btn btn-grad">Learn More About Us</a>
                 </div>
@@ -273,8 +273,7 @@ Testimonials -->
                                     <div class="d-flex mt-3">
                                         <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/new/bevis-13.jpg" alt="avatar" style="height: 100px;"></h6>
                                         <div class="align-self-center">
-                                            <h5 class="mb-2">John Njoroge</h5>
-                                            <p>CEO, GreenFuture</p>
+                                            <h5 class="mb-2">Dr. Tonny K. Omwasa</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -292,16 +291,16 @@ Testimonials -->
                                     <h2>Empowering Communities with Carbon Credits</h2>
                                     <p class="mb-0 lead">"Thanks to Bevis Africa, we've empowered local farmers and fishermen to contribute to climate action and earn sustainable incomes."</p>
                                     <div class="d-flex mt-3">
-                                        <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/new/bevis-12.jpg" alt="avatar" style="height: 100px;"></h6>
+                                        <h6 class="align-self-start me-3"><img class="rounded-circle" src="assets/images/new/bevis-10-crop.jpg" alt="avatar" style="height: 100px;"></h6>
                                         <div class="align-self-center">
-                                            <h5 class="mb-2">Jane Kilonzo</h5>
-                                            <p>Founder, EcoWave</p>
+                                            <h5 class="mb-2">Sammy Mlai</h5>
+                                            <p>Chairman Chanuka Youth Bunge</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-10 col-lg-6 mx-md-auto align-self-center mt-4 mt-lg-0 position-relative">
-                                <img class="rounded" src="assets/images/new/bevis-12.jpg" alt="">
+                                <img class="rounded" src="assets/images/new/bevis-10-crop.jpg" alt="">
                             </div>
                         </div>
                     </div>
