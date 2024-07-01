@@ -296,7 +296,7 @@ Our Impact -->
 				<div class="col-md-3 col-6 mb-4 mb-md-0">
 					<div class="text-center">
 						<i class="display-6 bi bi-tree"></i>
-						<h2 class="fw-bold mt-2 mb-0 purecounter" data-purecounter-start="0" data-purecounter-delay="10" data-purecounter-duration="1" data-purecounter-end="500000">500,000</h2>
+						<h2 class="fw-bold mt-2 mb-0 purecounter" data-purecounter-start="0" data-purecounter-delay="10" data-purecounter-duration="1" data-purecounter-end="25000">25,000</h2>
 						<p class="mb-0">Trees Planted</p>
 					</div>
 				</div>
@@ -304,7 +304,7 @@ Our Impact -->
 				<div class="col-md-3 col-6 mb-4 mb-md-0">
 					<div class="text-center">
 						<i class="display-6 bi bi-lightning-charge"></i>
-						<h2 class="fw-bold mt-2 mb-0 purecounter" data-purecounter-start="0" data-purecounter-delay="10" data-purecounter-duration="1" data-purecounter-end="10000">10,000</h2>
+						<h2 class="fw-bold mt-2 mb-0 purecounter" data-purecounter-start="0" data-purecounter-delay="10" data-purecounter-duration="1" data-purecounter-end="125">125</h2>
 						<p class="mb-0">Households Powered by Solar</p>
 					</div>
 				</div>
@@ -312,7 +312,7 @@ Our Impact -->
 				<div class="col-md-3 col-6">
 					<div class="text-center">
 						<i class="display-6 bi bi-people"></i>
-						<h2 class="fw-bold mt-2 mb-0 purecounter" data-purecounter-start="0" data-purecounter-delay="10" data-purecounter-duration="1" data-purecounter-end="50000">50,000</h2>
+						<h2 class="fw-bold mt-2 mb-0 purecounter" data-purecounter-start="0" data-purecounter-delay="10" data-purecounter-duration="1" data-purecounter-end="1785">1,785</h2>
 						<p class="mb-0">Lives Improved</p>
 					</div>
 				</div>
@@ -320,7 +320,7 @@ Our Impact -->
 				<div class="col-md-3 col-6">
 					<div class="text-center">
 						<i class="display-6 bi bi-wind"></i>
-						<h2 class="fw-bold mt-2 mb-0 purecounter" data-purecounter-start="0" data-purecounter-delay="80" data-purecounter-duration="10" data-purecounter-end="250000">250,000</h2>
+						<h2 class="fw-bold mt-2 mb-0 purecounter" data-purecounter-start="0" data-purecounter-delay="80" data-purecounter-duration="10" data-purecounter-end="3500">3,500</h2>
 						<p class="mb-0">Tonnes of CO2 Offset</p>
 					</div>
 				</div>
