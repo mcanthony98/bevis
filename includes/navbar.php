@@ -46,7 +46,7 @@ header Start-->
 						<div class="dropdown-menu mt-2 shadow" aria-labelledby="dropdownAccount">
 							<a class="dropdown-item" href="login.php">Log In</a>
 							<a class="dropdown-item" href="register.php">Register</a>
-							<a class="dropdown-item" href="dash.php">Profile</a>
+							<a class="dropdown-item" href="edit-profile.php">Profile</a>
 						</div>
 					</div>
 					<!-- top link -->
