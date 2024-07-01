@@ -171,12 +171,11 @@
                             </div>
                         </div>
                         <div class="text-center mt-4">
-                            <button class="btn btn-primary">Submit Application</button>
+                            <a href="thank-you-cc.php.php" class="btn btn-primary">Submit Application</a>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
     </section>
 
     <!-- Footer, CTA -->
