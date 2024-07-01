@@ -98,7 +98,7 @@ About us -->
 
 	<!-- =======================
 About us -->
-	<section>
+	<section class="pb-2">
 		<div class="container h-100">
 			<div class="row">
 				<div class="col-md-6 align-self-center">
@@ -114,7 +114,11 @@ About us -->
 				</div>
 			</div>
 			<!-- row end -->
-			<div class="row mt-7">
+
+			<div class="row mt-5">
+				<div class="title text-center">
+					<span class="pre-title">How We Operate</span>
+				</div>
 				<!-- process item-->
 				<div class="col-md-3 mb-6">
 					<div class="process">
@@ -153,8 +157,8 @@ About us -->
 
 	<!-- =======================
 Voluntary Carbon Market -->
-	<section>
-		<div class="container h-100">
+	<section class="pt-1">
+		<div class="container h-50">
 			<div class="row">
 				<div class="col-md-12">
 					<h2>Voluntary Carbon Market</h2>
@@ -175,8 +179,8 @@ Voluntary Carbon Market -->
 Voluntary Carbon Market -->
 	<!-- =======================
 Company Commitment -->
-	<section>
-		<div class="container h-100">
+	<section class="pt-1">
+		<div class="container h-50">
 			<div class="row">
 				<div class="col-md-12">
 					<h2>Company Commitment</h2>
@@ -293,20 +297,9 @@ Team -->
 					</div>
 				</div>
 
-				<!-- Center Bottom 3 Items -->
+				<!-- Bottom Row -->
 				<div class="row justify-content-center">
-					<!-- Team item -->
-					<div class="col-sm-6 col-md-3">
-						<div class="team-item text-center">
-							<div class="team-avatar">
-								<img src="assets/images/profile-avatar.svg" alt="">
-							</div>
-							<div class="team-desc">
-								<h5 class="team-name">Nicodemus Mwangi</h5>
-								<span class="team-position">Blockchain Developer</span>
-							</div>
-						</div>
-					</div>
+
 					<!-- Team item -->
 					<div class="col-sm-6 col-md-3">
 						<div class="team-item text-center">
@@ -319,6 +312,7 @@ Team -->
 							</div>
 						</div>
 					</div>
+
 					<!-- Team item -->
 					<div class="col-sm-6 col-md-3">
 						<div class="team-item text-center">
@@ -331,6 +325,20 @@ Team -->
 							</div>
 						</div>
 					</div>
+
+					<!-- Team item -->
+					<div class="col-sm-6 col-md-3">
+						<div class="team-item text-center">
+							<div class="team-avatar">
+								<img src="assets/images/profile-avatar.svg" alt="">
+							</div>
+							<div class="team-desc">
+								<h5 class="team-name">Nicodemus Mwangi</h5>
+								<span class="team-position">Blockchain Developer</span>
+							</div>
+						</div>
+					</div>
+
 				</div>
 			</div>
 			<!-- row end -->
