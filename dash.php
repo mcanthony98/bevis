@@ -171,7 +171,7 @@
                             </div>
                         </div>
                         <div class="text-center mt-4">
-                            <a href="thank-you-cc.php.php" class="btn btn-primary">Submit Application</a>
+                            <a href="thank-you-cc.php" class="btn btn-primary">Submit Application</a>
                         </div>
                     </div>
                 </div>
