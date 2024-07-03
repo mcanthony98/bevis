@@ -1,3 +1,20 @@
+<?php
+session_start();
+require "includes/connect.php";
+include "includes/cart.php";
+
+if(isset($_SESSION['uid'])){
+    $uid = $_SESSION['uid'];
+    $qry = "SELECT * FROM cart JOIN product ON product.product_id=cart.product_id WHERE cart.user_id='$uid' ORDER BY cart.cart_id DESC";
+}elseif(isset($_COOKIE['cart'])){
+    $uid = $_COOKIE['cart'];
+    $qry = "SELECT * FROM cart JOIN product ON product.product_id=cart.product_id WHERE cart.browser_id='$uid' ORDER BY cart.cart_id DESC";
+}
+$total = 0;
+$res = $pdo->query($qry);
+$quickordurl = "Hello, I visited your website and would like to make an order for: ";
+?>
+
 <!doctype html>
 <html lang="en">
 
@@ -106,13 +123,29 @@ Checkout -->
                     <div class="bg-light p-4 sticky-top">
                         <h5 class="mb-3">Order Summary</h5>
                         <ul class="list-unstyled">
+                        <?php while($row = $res->fetch_assoc()){
+                                            $imgqry = "SELECT * FROM prod_img WHERE type='0' AND product_id =".$row['product_id'];
+                                            $imgres = $pdo->query($imgqry);
+                                            if($imgres->num_rows > 0){
+                                                $imgrow = $imgres->fetch_assoc();
+                                                $img = $imgrow['image'];
+                                            }else{
+                                                $img = "placeholder.png";
+                                            }
+                                            $subtotal = $row['price']*$row['cart_quantity'];
+                                            $total = $total+$subtotal;
+
+                                            $quickordurl .= ">".$row['name']." -SKU".$row['product_id'].". ";
+                                            ?>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <div>
-                                    <h6 class="my-0">Eco-Friendly Jiko</h6>
-                                    <small class="text-muted">Quantity: 1</small>
+                                    <h6 class="my-0"><?php echo $row['name'];?></h6>
+                                    <small class="text-muted">Quantity: <?php echo $row['cart_quantity'];?></small>
                                 </div>
-                                <span class="text-muted">Ksh. 7,000</span>
+                                <span class="text-muted">Ksh. <?php echo number_format($subtotal);?></span>
                             </li>
+
+                            <?php } ?>
                             <li class="d-flex justify-content-between align-items-center mb-3">
                                 <div>
                                     <h6 class="my-0">Shipping</h6>
@@ -122,7 +155,7 @@ Checkout -->
                             </li>
                             <li class="d-flex justify-content-between align-items-center">
                                 <span>Total (KSH)</span>
-                                <strong>Ksh. 7,500</strong>
+                                <strong>Ksh. <?php echo number_format($total+500);?></strong>
                             </li>
                         </ul>
                     </div>
