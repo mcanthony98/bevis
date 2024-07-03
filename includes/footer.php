@@ -68,7 +68,7 @@ footer  -->
 		<div class="container">
 			<div class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-start">
 				<!-- copyright text -->
-				<div class="copyright-text">©2024 Bevis Africa. All Rights Reserved. Built by <a href="https://www.ganiamtech.com/" style="color: #2bb673;">Ganiam Tech</a></div>
+				<div class="copyright-text">©2024 Bevis Africa. All Rights Reserved. <!--Built by <a href="https://www.ganiamtech.com/" style="color: #2bb673;">Ganiam Tech</a>--></div>
 				<div class="copyright-links primary-hover mt-3 mt-md-0">
 					<ul class="list-inline">
 						<!--
