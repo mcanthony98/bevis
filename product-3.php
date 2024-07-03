@@ -1,3 +1,26 @@
+<?php
+session_start();
+require "includes/connect.php";
+include "includes/cart.php"; 
+
+
+
+$pid = 3;
+$pqry = "SELECT * FROM product JOIN category ON product.category_id=category.category_id WHERE product.product_id = '$pid'";
+$pres = $pdo->query($pqry);
+$prow = $pres->fetch_assoc();
+
+
+
+$otherimgres = $pdo->query("SELECT * FROM prod_img WHERE product_id='$pid' ORDER BY type");
+
+$moreqry = "SELECT * FROM product WHERE category_id=".$prow['category_id'];
+$moreres = $pdo->query($moreqry);
+
+$quickordurl = "Hello, I visited your website and would like to make an order for: ";
+$quickordurl .= ">".$prow['name']." -SKU".$prow['product_id'].". ";
+
+?>
 <!doctype html>
 <html lang="en">
 
@@ -144,7 +167,11 @@
                 </div>
                 <div class="col-md-12 text-center">
                     <h2>Price: 35,000 KSH</h2>
-                    <a class="btn btn-grad mt-4 mb-5" href="cart.php" style="width: 200px; margin: 0 auto;">Buy Now</a>
+                    <form class="addtocart" method="POST">
+						<input type="hidden" name="addcart" value="<?php echo $pid;?>">
+						<input type="hidden" name="qty" value="1">
+						<button type="submit" onclick="this.form.submit();"  class="btn btn-grad mt-4 mb-5" >Buy Now</button>
+					</form>
                 </div>
 
             </div>
@@ -159,7 +186,11 @@
     <div class="sticky-bottom-bar">
         <div class="container">
             <h3>Price: 35,000 KSH</h3>
-            <a class="btn btn-grad" href="cart.php">Buy Now</a>
+            <form class="addtocart" method="POST">
+				<input type="hidden" name="addcart" value="<?php echo $pid;?>">
+				<input type="hidden" name="qty" value="1">
+				<button type="submit" onclick="this.form.submit();"  class="btn btn-grad" >Buy Now</button>
+			</form>
         </div>
     </div>
 
@@ -168,6 +199,29 @@
 
     <!-- Scripts -->
     <?php include 'includes/scripts.php'; ?>
+
+    <script>
+  $(document).ready(function() {
+      $(".addtocart").submit(function(event) {
+        event.preventDefault();
+		
+          var x = $(".addtocart").serialize();
+          $.ajax({  
+                        url:"processes/cartprocesses.php",  
+                        type:"POST",  
+                        data:x,
+                        crossDomain: true,
+                        cache: false, 
+                        success:function(data){
+                            window.location.href = "cart.php";
+
+                            
+                        }  
+                });
+
+      });
+  });
+</script>
 </body>
 
 </html>
